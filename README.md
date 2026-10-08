@@ -1,15 +1,23 @@
-# Título Proyecto
+# TALLER MECÁNICO TREVOR'S MOTORS
 
 ## Miembros del grupo LX-XXX-X (sustituir)
 
-1. Apellidos, Nombre
-1. Apellidos, Nombre
-1. Apellidos, Nombre
-1. Apellidos, Nombre
+1. Macías Verdugo, Jose Javier
+2. García Bermúdez, Raúl
+3. Romero de la Osa Díaz, Adrián
+
 
 ## 1. Introducción al problema
 
-- Descripción del problema para poner en contexto el proyecto, incluyendo información sobre los clientes y usuarios, la situación actual, problemas, expectativas, etc. Se valorará la presencia de información multimedia (fotos, gráficos, documentos escaneados, etc.).
+El proyecto consiste en el desarrollo de un sistema de gestión para un taller de reparación y mantenimiento de vehículos. El objetivo principal del sistema será facilitar la gestión de la información relacionada con los clientes, sus vehículos, las citas y las reparaciones realizadas en el taller.
+Actualmente, en un taller de estas características, parte de la información puede gestionarse mediante anotaciones, documentos físicos, hojas de cálculo u otras herramientas. Esta situación puede dificultar la consulta y actualización de la información, especialmente cuando aumenta el número de clientes y vehículos. También puede resultar complicado realizar un seguimiento adecuado de las reparaciones realizadas y del historial de cada vehículo.
+El taller atiende principalmente a clientes particulares que llevan sus vehículos para realizar revisiones, mantenimientos o reparaciones. Un mismo vehículo puede acudir al taller en diferentes ocasiones y recibir distintos servicios, por lo que resulta útil disponer de un historial de las intervenciones realizadas.
+El sistema será utilizado por los empleados del taller, que podrán gestionar la información de los clientes y sus vehículos, organizar las citas, registrar las reparaciones y consultar el historial de intervenciones realizadas.
+Con el desarrollo del sistema se pretende centralizar y organizar la información del taller, reducir los errores derivados de la gestión manual y facilitar el acceso a la información necesaria para realizar el trabajo diario.
+El sistema se centrará inicialmente en operaciones habituales de un taller generalista, como revisiones, cambios de aceite y filtros, sustitución de frenos, cambio de neumáticos, baterías y otras reparaciones mecánicas habituales.
+
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/a18a948e-2fad-42d3-afc1-cfe1795a0af3" />
+
 
 ## 2. Glosario de términos
 
