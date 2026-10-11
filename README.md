@@ -114,7 +114,7 @@ Como **Jefe de Taller**  quiero **consultar las reparaciones finalizadas en los 
 
 **Prueba de aceptación:**
 - Solicita matrícula y descripción/componente de la avería.
-- Localiza facturas cerradas con antigüedad menor a 90 días naturales y una diferencia de odómetro menor a 2.000 km.
+- Localiza facturas cerradas con antigüedad menor a 90 días naturales o una diferencia de odómetro menor a 2.000 km.
 
 #### R.F.08. Listado de Previsiones de Mantenimiento e Inspección ITV
 Como **Asesor de Servicio**  quiero **listar los vehículos registrados cuyas revisiones periódicas o fecha de ITV venzan en los próximos 30 días**  para **contactar preventivamente con los clientes y concertar citas de mantenimiento.**
@@ -130,7 +130,7 @@ Como **Jefe de Taller**  quiero **consultar el desglose pormenorizado de costes 
 **Prueba de aceptación:**
 - Solicita el código identificativo de la orden.
 - Desglosa: líneas de repuestos utilizados (referencia, unidades, precio coste, PVP), líneas de mano de obra (mecánico, horas dedicadas, tarifa horaria aplicada) y subtotales.
-- Valida el desglose de IVA conforme a la regla **R.N.07**.
+- Valida el desglose de IVA conforme a la regla **R.N.05**.
 
 #### R.F.10. Consulta de Ocupación Diaria de Boxes de Trabajo
 Como **Asesor de Servicio**  quiero **consultar la ocupación horaria de cada uno de los 5 boxes del taller para una fecha determinada**  para **asignar citas de recepción sin sobrecargar la capacidad instalada del taller.**
