@@ -25,7 +25,8 @@ El objetivo de **[nombre_empresa]** es dotar a la empresa de una plataforma de s
 3. Gestionar el catálogo y stock de recambios en tiempo real, controlando entradas, salidas e imputaciones por orden.
 4. Mejorar la productividad monitorizando la carga horaria de los mecánicos y la ocupación de los boxes de trabajo.
 
-<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/24151b08-e6c0-4350-ba37-6dea51005ff4" />
+
+<img width="922" height="515" alt="image" src="https://github.com/user-attachments/assets/24151b08-e6c0-4350-ba37-6dea51005ff4" />
 
 
 ## 2. Glosario de términos
@@ -60,9 +61,7 @@ El objetivo de **[nombre_empresa]** es dotar a la empresa de una plataforma de s
 ### 4.1. Requisitos funcionales
 
 #### R.F.01. Consulta de Historial Completo de Reparaciones por Vehículo
-Como **Asesor de Servicio**  
-quiero **consultar el historial de intervenciones, kilometrajes y averías pasadas de un vehículo introduciendo su matrícula o bastidor (VIN)**  
-para **conocer los antecedentes mecánicos del vehículo antes de emitir una nueva recepción o presupuesto.**
+Como **Asesor de Servicio**  quiero **consultar el historial de intervenciones, kilometrajes y averías pasadas de un vehículo introduciendo su matrícula o bastidor (VIN)**  para **conocer los antecedentes mecánicos del vehículo antes de emitir una nueva recepción o presupuesto.**
 
 **Prueba de aceptación:**
 - El sistema solicita una matrícula o un VIN válido.
@@ -71,9 +70,7 @@ para **conocer los antecedentes mecánicos del vehículo antes de emitir una nue
 - Si el vehículo no registra reparaciones previas, informa que se trata de su primera visita.
 
 #### R.F.02. Listado de Órdenes de Trabajo Activas según Estado y Prioridad
-Como **Jefe de Taller**  
-quiero **listar las órdenes de trabajo activas filtradas por su estado actual y ordenadas por nivel de prioridad**  
-para **planificar la carga de trabajo de los mecánicos y asignar los boxes disponibles.**
+Como **Jefe de Taller**  quiero **listar las órdenes de trabajo activas filtradas por su estado actual y ordenadas por nivel de prioridad**  para **planificar la carga de trabajo de los mecánicos y asignar los boxes disponibles.**
 
 **Prueba de aceptación:**
 - Permite seleccionar uno o varios estados (*Presupuestada*, *En Reparación*, *Esperando Repuesto*, *Finalizada*).
@@ -81,9 +78,7 @@ para **planificar la carga de trabajo de los mecánicos y asignar los boxes disp
 - Las órdenes con prioridad "Urgente" se muestran destacadas al inicio de la lista.
 
 #### R.F.03. Consulta de Repuestos en Nivel Crítico (Bajo Stock Mínimo)
-Como **Responsable de Almacén**  
-quiero **listar los repuestos cuya cantidad en stock sea inferior o igual a su stock mínimo definido**  
-para **tramitar a tiempo los pedidos de reaprovisionamiento a los proveedores.**
+Como **Responsable de Almacén**  quiero **listar los repuestos cuya cantidad en stock sea inferior o igual a su stock mínimo definido**  para **tramitar a tiempo los pedidos de reaprovisionamiento a los proveedores.**
 
 **Prueba de aceptación:**
 - El sistema filtra automáticamente el catálogo donde `Stock_Actual <= Stock_Minimo`.
@@ -91,9 +86,7 @@ para **tramitar a tiempo los pedidos de reaprovisionamiento a los proveedores.**
 - Considera las piezas bloqueadas para reparaciones en curso según la regla **R.N.03**.
 
 #### R.F.04. Listado de Presupuestos Pendientes de Aprobación
-Como **Asesor de Servicio**  
-quiero **consultar los presupuestos emitidos que están pendientes de respuesta por parte del cliente**  
-para **realizar el seguimiento correspondiente y agilizar la aprobación de los trabajos.**
+Como **Asesor de Servicio**  quiero **consultar los presupuestos emitidos que están pendientes de respuesta por parte del cliente**  para **realizar el seguimiento correspondiente y agilizar la aprobación de los trabajos.**
 
 **Prueba de aceptación:**
 - Muestra todos los presupuestos en estado "Pendiente de Aprobación".
@@ -101,9 +94,7 @@ para **realizar el seguimiento correspondiente y agilizar la aprobación de los 
 - Marca como "Caducado" cualquier presupuesto emitido hace más de 15 días naturales.
 
 #### R.F.05. Listado de Facturas Emitidas y Saldos Pendientes por Período
-Como **Asesor de Servicio**  
-quiero **listar las facturas emitidas en un rango de fechas discriminando entre cobradas y pendientes de pago**  
-para **llevar el control de tesorería y gestionar cobros pendientes.**
+Como **Asesor de Servicio**  quiero **listar las facturas emitidas en un rango de fechas discriminando entre cobradas y pendientes de pago**  para **llevar el control de tesorería y gestionar cobros pendientes.**
 
 **Prueba de aceptación:**
 - Filtra por intervalo de fechas y estado de cobro (*Cobrada*, *Pendiente*, *Cobro Parcial*).
@@ -111,9 +102,7 @@ para **llevar el control de tesorería y gestionar cobros pendientes.**
 - Muestra totales acumulados de facturación y el importe pendiente de cobro.
 
 #### R.F.06. Búsqueda Avanzada de Clientes y Vehículos Vinculados
-Como **Asesor de Servicio**  
-quiero **buscar clientes por NIF/CIF, apellidos, teléfono o matrícula asociada**  
-para **localizar rápidamente su ficha de contacto y ver los vehículos registrados a su nombre.**
+Como **Asesor de Servicio**  quiero **buscar clientes por NIF/CIF, apellidos, teléfono o matrícula asociada**  para **localizar rápidamente su ficha de contacto y ver los vehículos registrados a su nombre.**
 
 **Prueba de aceptación:**
 - Permite búsquedas parciales o completas por cualquiera de los parámetros indicados.
@@ -121,18 +110,14 @@ para **localizar rápidamente su ficha de contacto y ver los vehículos registra
 - Al seleccionar un cliente, muestra los detalles de cada vehículo asociado (marca, modelo, año, VIN).
 
 #### R.F.07. Consulta de Reparaciones en Garantía Activas
-Como **Jefe de Taller**  
-quiero **consultar las reparaciones finalizadas en los últimos 3 meses o con menos de 2.000 km recorridos para un vehículo determinado**  
-para **dictaminar si una avería recurrente está amparada por la garantía legal sin coste para el cliente.**
+Como **Jefe de Taller**  quiero **consultar las reparaciones finalizadas en los últimos 3 meses o con menos de 2.000 km recorridos para un vehículo determinado**  para **dictaminar si una avería recurrente está amparada por la garantía legal sin coste para el cliente.**
 
 **Prueba de aceptación:**
 - Solicita matrícula y descripción/componente de la avería.
 - Localiza facturas cerradas con antigüedad menor a 90 días naturales y una diferencia de odómetro menor a 2.000 km.
 
 #### R.F.08. Listado de Previsiones de Mantenimiento e Inspección ITV
-Como **Asesor de Servicio**  
-quiero **listar los vehículos registrados cuyas revisiones periódicas o fecha de ITV venzan en los próximos 30 días**  
-para **contactar preventivamente con los clientes y concertar citas de mantenimiento.**
+Como **Asesor de Servicio**  quiero **listar los vehículos registrados cuyas revisiones periódicas o fecha de ITV venzan en los próximos 30 días**  para **contactar preventivamente con los clientes y concertar citas de mantenimiento.**
 
 **Prueba de aceptación:**
 - Calcula vencimientos basados en la periodicidad de la ITV o en la proyección de kilometraje anual del cliente.
@@ -140,9 +125,7 @@ para **contactar preventivamente con los clientes y concertar citas de mantenimi
 - Permite exportar o tabular la información resultante.
 
 #### R.F.09. Consulta Detallada de Costes y Desglose de una Orden de Trabajo
-Como **Jefe de Taller**  
-quiero **consultar el desglose pormenorizado de costes de una Orden de Trabajo concreta**  
-para **verificar el sumatorio exacto de recambios, tiempos de mano de obra y márgenes brutos calculados.**
+Como **Jefe de Taller**  quiero **consultar el desglose pormenorizado de costes de una Orden de Trabajo concreta**  para **verificar el sumatorio exacto de recambios, tiempos de mano de obra y márgenes brutos calculados.**
 
 **Prueba de aceptación:**
 - Solicita el código identificativo de la orden.
@@ -150,9 +133,7 @@ para **verificar el sumatorio exacto de recambios, tiempos de mano de obra y má
 - Valida el desglose de IVA conforme a la regla **R.N.07**.
 
 #### R.F.10. Consulta de Ocupación Diaria de Boxes de Trabajo
-Como **Asesor de Servicio**  
-quiero **consultar la ocupación horaria de cada uno de los 5 boxes del taller para una fecha determinada**  
-para **asignar citas de recepción sin sobrecargar la capacidad instalada del taller.**
+Como **Asesor de Servicio**  quiero **consultar la ocupación horaria de cada uno de los 5 boxes del taller para una fecha determinada**  para **asignar citas de recepción sin sobrecargar la capacidad instalada del taller.**
 
 **Prueba de aceptación:**
 - Solicita una fecha de consulta (por defecto, la fecha en curso).
@@ -163,53 +144,41 @@ para **asignar citas de recepción sin sobrecargar la capacidad instalada del ta
 #### 4.1.1. Requisitos de información
 
 ##### R.I.01. Gestión de Clientes y Titulares
-Como **Asesor de Servicio**  
-quiero **almacenar los datos identificativos, fiscales y de contacto de los clientes particulares y empresas**  
-para **mantener un registro fidedigno para la emisión legal de presupuestos, facturas y avisos.**
+Como **Asesor de Servicio**  quiero **almacenar los datos identificativos, fiscales y de contacto de los clientes particulares y empresas**  para **mantener un registro fidedigno para la emisión legal de presupuestos, facturas y avisos.**
 
 **Prueba de aceptación:**
 - Almacena de forma persistente: NIF/CIF (clave única), Nombre o Razón Social, Primer Apellido, Segundo Apellido, Domicilio completo (calle, número, código postal, localidad, provincia), Teléfono principal, Correo electrónico y Consentimiento explícito de comunicaciones RGPD (booleano).
 - No admite duplicados de NIF/CIF.
 
 ##### R.I.02. Ficha Técnica de Vehículos
-Como **Asesor de Servicio**  
-quiero **almacenar la información técnica e identificativa de cada vehículo registrado en el taller**  
-para **conocer sus características mecánicas y vincularlo unívocamente a su propietario titular.**
+Como **Asesor de Servicio**  quiero **almacenar la información técnica e identificativa de cada vehículo registrado en el taller**  para **conocer sus características mecánicas y vincularlo unívocamente a su propietario titular.**
 
 **Prueba de aceptación:**
 - Almacena: Matrícula (clave única), Número de Bastidor/VIN (único, 17 caracteres), Marca, Modelo, Cilindrada, Tipo de Combustible (Gasolina, Diésel, Híbrido, Eléctrico, GLP), Año de Matriculación, Kilometraje actual registrado y NIF del Cliente propietario asociado.
 - Cumple con la regla de negocio **R.N.01**.
 
 ##### R.I.03. Órdenes de Trabajo (OT)
-Como **Jefe de Taller**  
-quiero **almacenar el ciclo de vida y los datos operativos de cada intervención en el taller**  
-para **disponer de una trazabilidad completa de cada reparación efectuada.**
+Como **Jefe de Taller**  quiero **almacenar el ciclo de vida y los datos operativos de cada intervención en el taller**  para **disponer de una trazabilidad completa de cada reparación efectuada.**
 
 **Prueba de aceptación:**
 - Almacena: Código de Orden (secuencial único), Matrícula del vehículo, Fecha y hora de entrada, Kilometraje de entrada, Nivel de combustible, Daños visuales exteriores declarados, Motivo de visita/Avería declarada, Prioridad (*Normal*, *Urgente*), Estado actual, Fecha prevista de entrega, Fecha de cierre real y Asesor de servicio responsable.
 - Respeta la máquina de estados definida en **R.N.04**.
 
 ##### R.I.04. Catálogo y Almacén de Repuestos
-Como **Responsable de Almacén**  
-quiero **almacenar los datos técnicos, existencias y precios del catálogo de recambios y consumibles**  
-para **mantener el inventario controlado y valorar económicamente los materiales de cada orden.**
+Como **Responsable de Almacén**  quiero **almacenar los datos técnicos, existencias y precios del catálogo de recambios y consumibles**  para **mantener el inventario controlado y valorar económicamente los materiales de cada orden.**
 
 **Prueba de aceptación:**
 - Almacena: Código de referencia de fabricante (único), Descripción de la pieza, Familia técnica (Motor, Frenado, Suspensión, Eléctrico, Fluidos), Fabricante, Stock actual disponible, Stock mínimo de seguridad, Precio de adquisición unitario (sin IVA), Precio de venta al público (PVP sin IVA) y Ubicación física (estantería/módulo).
 - El stock actual no puede tomar valores inferiores a cero.
 
 ##### R.I.05. Registro de Intervenciones y Mano de Obra
-Como **Jefe de Taller**  
-quiero **almacenar el registro de tiempos dedicados por cada técnico a cada orden de trabajo**  
-para **computar la mano de obra facturable y auditar los tiempos productivos de los técnicos.**
+Como **Jefe de Taller**  quiero **almacenar el registro de tiempos dedicados por cada técnico a cada orden de trabajo**  para **computar la mano de obra facturable y auditar los tiempos productivos de los técnicos.**
 
 **Prueba de aceptación:**
 - Almacena: Identificador de intervención, Código de la OT, DNI/Identificador del Mecánico, Descripción del trabajo realizado, Tiempo dedicado (en horas y fracciones decimales de 0.25 h), tarifa horaria aplicada y Fecha de ejecución.
 
 ##### R.I.06. Facturas y Comprobantes de Cobro
-Como **Asesor de Servicio**  
-quiero **almacenar los documentos formales de facturación y transacciones de cobro emitidos**  
-para **cumplir con la normativa tributaria y respaldar la garantía mercantil de las reparaciones.**
+Como **Asesor de Servicio**  quiero **almacenar los documentos formales de facturación y transacciones de cobro emitidos**  para **cumplir con la normativa tributaria y respaldar la garantía mercantil de las reparaciones.**
 
 **Prueba de aceptación:**
 - Almacena: Serie y número correlativo inalterable de factura, Fecha de emisión, Código de la OT, Datos fiscales congelados de emisor y cliente, Líneas detalladas de facturación, Base imponible, Tipo impositivo de IVA, Importe total, Estado de pago (*Cobrada*, *Pendiente*) y Método de pago empleado.
@@ -241,16 +210,12 @@ Todas las líneas de conceptos facturables (tanto piezas como horas de mano de o
 | Actividad Principal | 1. Recepción y Entrada | 2. Diagnóstico y Presupuesto | 3. Intervención en Taller | 4. Control de Calidad | 5. Entrega y Facturación |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Paso de Usuario** | Identificar cliente y vehículo; inspección física inicial. | Detectar averías, evaluar piezas requeridas y cotizar. | Desmontaje, reparación y consumo de horas y piezas. | Verificación técnica y pruebas dinámicas en carretera. | Liquidación económica, cobro y entrega del vehículo. |
-| **Historias / Tareas de Usuario** | - Buscar cliente por NIF o matrícula (**R.F.07**)<br>- Dar de alta cliente y vehículo (**R.I.01, R.I.02**)<br>- Abrir Orden de Trabajo (**R.I.03**) | - Registrar diagnóstico técnico<br>- Consultar disponibilidad de repuestos (**R.F.03**)<br>- Generar presupuesto (**R.I.06**)<br>- Consultar presupuestos pendientes (**R.F.04**) | - Consultar OTs asignadas por prioridad (**R.F.02**)<br>- Imputar mano de obra (**R.I.05, R.N.05**)<br>- Imputar piezas consumidas (**R.N.03**)<br>- Consultar costes acumulados (**R.F.10**) | - Realizar chequeo final en carretera<br>- Registrar visto bueno del Jefe de Taller (**R.N.04**)<br>- Pasar orden a estado "Finalizada" | - Generar factura legal con IVA (**R.I.07, R.N.07**)<br>- Verificar garantías vigentes (**R.F.08, R.N.06**)<br>- Consultar cobros pendientes (**R.F.06**)<br>- Registrar pago y cerrar OT |
+| **Historias / Tareas de Usuario** | - Buscar cliente por NIF o matrícula<br>- Dar de alta cliente y vehículo<br>- Abrir Orden de Trabajo | - Registrar diagnóstico técnico<br>- Consultar disponibilidad de repuestos<br>- Generar presupuesto<br>- Consultar presupuestos pendientes | - Consultar OTs asignadas por prioridad<br>- Imputar mano de obra<br>- Imputar piezas consumidas<br>- Consultar costes acumulados | - Realizar chequeo final en carretera<br>- Registrar visto bueno del Jefe de Taller<br>- Pasar orden a estado "Finalizada" | - Generar factura legal con IVA<br>- Verificar garantías vigentes<br>- Consultar cobros pendientes<br>- Registrar pago y cerrar OT |
 
 ### 4.3. Requisitos no funcionales
 
 #### R.N.F.01. Rendimiento y Latencia de Consultas
-Como **Asesor de Servicio y Jefe de Taller**  
-quiero **que el sistema devuelva las consultas y listados de información (históricos de vehículos, stock y órdenes activas) en un tiempo inferior a 1,5 segundos en condiciones de concurrencia habitual**  
-para **evitar esperas en el mostrador de atención al público y mantener la fluidez operativa.**
+Como **Asesor de Servicio y Jefe de Taller**  quiero **que el sistema devuelva las consultas y listados de información (históricos de vehículos, stock y órdenes activas) en un tiempo inferior a 1,5 segundos en condiciones de concurrencia habitual**  para **evitar esperas en el mostrador de atención al público y mantener la fluidez operativa.**
 
 #### R.N.F.02. Usabilidad y Diseño Responsive para Entornos de Taller
-Como **Mecánico de Taller**  
-quiero **que la interfaz del sistema esté optimizada para tablets táctiles ubicadas en los boxes, con áreas de pulsación amplias y alta legibilidad de contrastes**  
-para **facilitar la consulta y el registro de datos incluso llevando guantes de trabajo o bajo condiciones de luz cambiantes.**
+Como **Mecánico de Taller**  quiero **que la interfaz del sistema esté optimizada para tablets táctiles ubicadas en los boxes, con áreas de pulsación amplias y alta legibilidad de contrastes**  para **facilitar la consulta y el registro de datos incluso llevando guantes de trabajo o bajo condiciones de luz cambiantes.**
