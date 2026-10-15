@@ -1,4 +1,4 @@
-# Sistema de Gestión Integral de Taller Mecánico ([nombre del sistema a implementar])
+# Sistema de Gestión Integral de Taller Mecánico
 
 ## Miembros del grupo L8-G07
 
@@ -9,7 +9,7 @@
 
 ## 1. Introducción al problema
 
-**[nombre_empresa]** es una empresa dedicada a la reparación mecánica, eléctrica y de mantenimiento preventivo multimarca para turismos y vehículos comerciales ligeros, con más de 20 años de trayectoria en el sector.
+**TREVOR MOTORS** es una empresa dedicada a la reparación mecánica, eléctrica y de mantenimiento preventivo multimarca para turismos y vehículos comerciales ligeros, con más de 20 años de trayectoria en el sector.
 
 La plantilla actual está compuesta por un Jefe de Taller, cuatro Oficiales Mecánicos/Electricistas, un Responsable de Almacén y dos Asesores de Servicio (Recepción y Facturación). El volumen medio de trabajo oscila entre 18 y 25 vehículos diarios.
 
@@ -19,7 +19,7 @@ A pesar de su solvencia técnica y alta demanda, la gestión operativa diaria de
 - **Descontrol en el inventario de repuestos:** La retirada de componentes del almacén no se descuenta en tiempo real. Esto produce desajustes de stock, retrasos al comenzar reparaciones por falta imprevista de material básico y duplicidad de pedidos a distribuidores.
 - **Opacidad en presupuestos y cobros:** La comunicación de presupuestos suele realizarse telefónicamente o en notas informales. Los desacuerdos sobre costes sobrevenidos o partidas imprevistas al momento de facturar generan incidencias recurrentes y retrasos en los pagos.
 
-El objetivo de **[nombre_empresa]** es dotar a la empresa de una plataforma de software integral, que permita:
+El objetivo de **TREVOR MOTORS** es dotar a la empresa de una plataforma de software integral, que permita:
 1. Digitalizar el ciclo de vida de la Orden de Trabajo (OT) desde la recepción del vehículo hasta su entrega y facturación.
 2. Centralizar el registro de clientes y vehículos con trazabilidad histórica completa.
 3. Gestionar el catálogo y stock de recambios en tiempo real, controlando entradas, salidas e imputaciones por orden.
