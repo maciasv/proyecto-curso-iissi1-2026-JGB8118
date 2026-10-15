@@ -9,7 +9,7 @@
 
 ## 1. Introducción al problema
 
-**TREVOR MOTORS** es una empresa dedicada a la reparación mecánica, eléctrica y de mantenimiento preventivo multimarca para turismos y vehículos comerciales ligeros, con más de 20 años de trayectoria en el sector.
+**TREVOR'S MOTOR** es una empresa dedicada a la reparación mecánica, eléctrica y de mantenimiento preventivo multimarca para turismos y vehículos comerciales ligeros, con más de 20 años de trayectoria en el sector.
 
 La plantilla actual está compuesta por un Jefe de Taller, cuatro Oficiales Mecánicos/Electricistas, un Responsable de Almacén y dos Asesores de Servicio (Recepción y Facturación). El volumen medio de trabajo oscila entre 18 y 25 vehículos diarios.
 
