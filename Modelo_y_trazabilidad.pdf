@@ -3,22 +3,19 @@
 1 0 obj
 <<
 /Producer (pypdf)
-/Title (TREVOR\047S MOTOR \055 Modelo conceptual y trazabilidad)
-/Author (Grupo L8\055G07)
 >>
 endobj
 2 0 obj
 <<
 /Type /Pages
 /Count 6
-/Kids [ 4 0 R 11 0 R 28 0 R 30 0 R 32 0 R 34 0 R ]
+/Kids [ 4 0 R 10 0 R 27 0 R 30 0 R 33 0 R 36 0 R ]
 >>
 endobj
 3 0 obj
 <<
 /Type /Catalog
 /Pages 2 0 R
-/Outlines 10 0 R
 >>
 endobj
 4 0 obj
@@ -26,32 +23,75 @@ endobj
 /Contents 5 0 R
 /MediaBox [ 0 0 1190.551 841.8898 ]
 /Resources <<
-/Font 6 0 R
-/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+>>
 /XObject <<
 /FormXob.a668ec03e9d032716703ba44b13aa37c 9 0 R
 >>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
 >>
 /Rotate 0
 /Trans <<
 >>
 /Type /Page
+/Annots [ ]
 /Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ]
-/Length 467
+/Length 735
 >>
 stream
-GarVJa_oie'YN`^k16o<)/^Xp*h/uB)b(i+aRts1$l3"d8IeRi+(&36'-.ED&-O_4ZO-,C`,tk\q!N*L0-DOq1PB?YDN-`E0j]CP1aVuc2PDCl3hrK^Ak&VH0e_#\[a_B,ao\`^<R.i5W_dp/?0fCJ4Ah(QW^qo:)F>1sCDt'??^p_$\DM74-=UQ%F:OV[GNP]^Z[>Y!s3#7fXnpt)%/gaL(.2nuFaT4@.f+nn'OEGg?U7'B,P_I8')nOaeRM9\+"OA.^p'[:I2KsfqAFCm`Ti1^$mCHLWNN3hBMfG'FGMLp]#,tOFpr3Gk9Udn(G*ni`0rGo`_$[lOK2>HG(&9@bu;)aA5!Rt=.u_*P#`FCeXj/)$Upkma).1A]ED,-BlI*XqU-gt1j0@G&WJVG-uO8'\D;RZ^h2o@45_cr/lk3"U%<?nl:=&agTU.;hnm?AUC\p.q:I250P(1`[F_#!~>
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.08 .2 .29 rg
+BT /F2 23 Tf 27.6 TL ET
+BT 1 0 0 1 46 794.8898 Tm (5. Modelo conceptual - diagrama de clases UML) Tj T* ET
+.36 .45 .52 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 47 773.8898 Tm (Version simplificada: nueve clases, asociaciones y multiplicidades. Las restricciones C01-C07 se detallan en la pagina siguiente.) Tj T* ET
+q
+1108.551 0 0 695.6724 41 53 cm
+/FormXob.a668ec03e9d032716703ba44b13aa37c Do
+Q
+BT /F1 9 Tf 10.8 TL ET
+.4 .5 .57 rg
+BT 1 0 0 1 47 26 Tm (TREVOR'S MOTOR  |  L8-G07  |  Modelo para revision) Tj T* ET
+BT 1 0 0 1 1138.547 26 Tm (1) Tj T* ET
+ 
+
+Q
+
+q
+0.0 0.0 1190.551 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+1 1 1 RG
+n
+0 0 1190.551 50 re
+f*
+Q
+
+
 endstream
 endobj
 6 0 obj
 <<
-/F1 7 0 R
-/F2 8 0 R
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
@@ -89,42 +129,306 @@ endstream
 endobj
 10 0 obj
 <<
->>
-endobj
-11 0 obj
-<<
-/Contents 12 0 R
+/Contents 11 0 R
 /MediaBox [ 0 0 595.2756 841.8898 ]
 /Resources <<
-/Font 13 0 R
-/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+/Font <<
+/F1 12 0 R
+/F1-0 13 0 R
+/F2+0 14 0 R
+/F3+0 18 0 R
+/F4 22 0 R
+/F5+0 23 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
 >>
 /Rotate 0
 /Trans <<
 >>
 /Type /Page
+/Annots [ ]
 /Parent 2 0 R
 >>
 endobj
-12 0 obj
+11 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ]
-/Length 2469
+/Length 6961
 >>
 stream
-Gau0DgN)=4&q0LUoZPfHM9QUELh*CV@H+Pi]]HD2A7_A+"X5*#*+$"Fk_uji^[Gl5]Z@Mq3Mj"'U.>jZ#5[8J7LO8,&b\:<LjkrCNu*D$8$`AU^^4[t7H_!%7g).H'664LKXcbS&sKjf64^=B`1Klm:7O:5bH/KEh@Fk$n5,_>`&uOhk]dS3<P:.K9m'I9qE(/%e*MEs`V74l+X_7-`:Iqrfglgt,9oC2,Ym[0E*V`!nPn?+ZDL=W,kG!$W?Rb5)OW[/-)k\fARqh@j19\R?^dS$IJ;]j*[L/eHL2'&\-UCuHP_kZ#JT[P>UT<)B_q_LM<MFDd^g0qk?^t%_P8M!4j3)5hs$i6T30=d8t:a/e80I1q.BKL>P`:p]:%(hF;:F^G9d$1]:NN7Me0%-3gEi*npE9C(^?"V_e?XsDq+<l8)n1TPBJQmJVLiLJcB[',o\)T>.HtAb%cWKH"WSB/BP7B1Fe_"%%6'd.?1,,mW6()L2okr65Y]h6-Jo5\Z[!aY"0b$J]q(b94\l"<u>5lU+,J+\^&RQ,ON!We:XjCZ2K@%`af0Q38P^?/^_E/4fhrQq/+>O4l/+edGfM3aIhl`2[3$4p\YTYg@q,U9*-Z(P6?`cQ\c[#6.aMB2@YU+DA_jCc/GcIlJ:)U]SMc2iC=nIL)5F8p\Yh8Ks:[8*A8;7L0sSj[?51>AI6L"YdAu1Lj[R8f7pCLHioNqZW_on3(Xs?$(fAH2-I$ng="jJ2=T:-jE1"dB93_nrg&6K;@"Z?G0<$7!nO+4IG!o]b_I;TmE4h`8E^3U"I-IIOW1(aeB!3#%aQ*pX$eZdD(WLf"5mgm!aE-4a%&flMuND01KRZpm,l""/mk_@c>:SBo8&@\q&=_Se;aL!kB),tn`/<a"j9<&CNuRKR$J)i15Jqt2Rn#XOONC9CT=FuC]nlaeIJ.Z:KQbW845T]V-piUV(`dCeNuTnctQt!'7nO<q8e3<4Ec,SN\BYfKPm184un+1SUZ\)0+ONA<K#cshY'rWFZdWEYgkM[4n-2e#eU0@Djsa<o^A?*mfl)@bTS+u9.?hq/2VL7=/6F3/K"RYYul-/7>f/F&0o-#=Z4pWOJl,1=26@eB^'g(=DlCeU1PNfP13S$/5PV/3Ff,:/&f#N``E@/+da0)_*^EGVHt_nIP4(lZ'-.A&`G>r5YAq4!!e"("8Gb38GZ($La7?o)0cfBhLUB)\mAF6T')"170mo0.kN_W20LUC;V`$FSSZG,rNMCe'KBK9LU/mcWDsH6dl%b9JB%sI!G,DPaQ\!hA5<JWefa8\gH;b?L2Fc@2Z:F1+Dnnq%+]ao#uIE&ofE_LlT(-f(<Y4H?:]*>UCW3WaUTR&:0t[9P(E^+(RiglrJ3lFE@8)J!RsV7GF,U)F<u($A.51mUAPb<?)&^D6BtOi3Xl*F&#pW@cBlZ^3rs=KE5Z#<1J9Fuba:?i*HYGP.^t;dB$*(;fkX#!)SFLZ<N)-ja`=g#35i`u-o<-6STkr7K_J3HO)VnTR9%>+h67a/3/$:-JDq!g)%hpO+mhR/NK1<"#GYbU[ZRXAW0;YCl(NM&X3Rb4+o_4::21a7&Ld>[Xb[LX;^;XOE-DG/&pBc3TWt&H1<W^#GH49u^R"Ajc)os<Kg;^rDfjipStLS[6JpPBa+;9k`R_e*-:OY+rBt@P6cnHQ[nrU*X;/A&.M+N#OAWS:Sp3UQ]UD'3nV;Q%A>EdlUD(X5<ddqYB!YZ_ZebL%:V4:"XI<@XE&tU31SAD1mo[W/R^_N5T?k,;7A`e1giY#:5ikm,fD@jNM#.3r'/1cioPR>Uh=)+c4#KNMWR=(@(QBh36H,@2GN/%`REM^]R[r%+Y!Ed!n3>>;=^'NFI"u58e'9qpi9H;4guN3$2)Xts6`SLU.nD%2#UV0qUkR&2B0fmU3a#QXUEN]=-6MSmA2g:D&U3&hPp5C6eZ$;+-/lOFoAB>Xhe%BHJeM?"m)hK1:s`ktfLk)FV*mOQGAR^OUTWtdmb63:`f7LqRbCrjW3Lct2qntj\Cj(0Rr+j2gh\'Sc*e`NC:3eAUH<@5mGh!glY:n.ol[[?9p<MP?<^bF\d7"nZZ(:2_@Y_F+aaNdWGRog_96YKACo>#AX/V)Im-t]nE$L;n,:eNpRY>HDfK[pJjV_B2>NHDrOaV;:%sJ1b@m\qUL^Dp,$$LFj7pAgL(BAo?"%%.Zuir;eP]K/T"V4H?JhW&6eQgn_ed&rZQREK4n+@,;HrD$ak:^]ej\P^#%FP!f15;YXp5=EF',-G:;X32Z<Zp!:3_WHlGUdT0-Q5`QXR%-H_)k?E!jVlMt:=^2Kkp=?XlEK>Z?sIbbWhSe9_(:/f*'0%_PnZS_gqKn;kHtXLIMLbe:,WfEkXas/HIrmk*-CnFg-49kKTL:8cQAfa#3>dj>7aK>U6pT*p*>2Fa3fZLlo,_4GK]d9cmib%R2eR6lmc9;WeQf!'Ze>tR0S5M$=1]`~>
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.141176 .211765 .25098 rg
+BT 1 0 0 1 36 806.8898 Tm /F2+0 19 Tf 22.8 TL (5.2. Restricciones) Tj T* ET
+.32549 .403922 .45098 rg
+BT 1 0 0 1 36 788.8898 Tm /F3+0 9.2 Tf 11.04 TL (Reglas del alcance actual. La numeraci\003n del README va de RN01 a RN12.) Tj T* ET
+.8 .843137 .866667 RG
+.7 w
+n 36 776.8898 m 559.2756 776.8898 l S
+.32549 .403922 .45098 rg
+BT 1 0 0 1 36 22 Tm /F3+0 8 Tf 9.6 TL (TREVOR'S MOTOR | L8-G07 | Alcance simplificado) Tj T* ET
+BT 1 0 0 1 554.1857 22 Tm /F3+0 8 Tf 9.6 TL (2) Tj T* ET
+q
+1 0 0 1 36 739.8898 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 15 Tm /F3+0 9 Tf 12 TL (Las notas agrupan reglas relacionadas para facilitar la lectura del dibujo. No a\004aden perfiles ni funcionalidades) Tj T* (nuevas.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36 401.2898 cm
+q
+.141176 .211765 .25098 rg
+n 0 332.6 523.2756 -24.4 re f*
+1 1 1 rg
+n 0 308.2 523.2756 -35.6 re f*
+.929412 .94902 .960784 rg
+n 0 272.6 523.2756 -35.6 re f*
+1 1 1 rg
+n 0 237 523.2756 -47.4 re f*
+.929412 .94902 .960784 rg
+n 0 189.6 523.2756 -47.4 re f*
+1 1 1 rg
+n 0 142.2 523.2756 -35.6 re f*
+.929412 .94902 .960784 rg
+n 0 106.6 523.2756 -59.2 re f*
+1 1 1 rg
+n 0 47.4 523.2756 -47.4 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 7 314.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.4 Tm 30.95459 0 Td /F2+0 9 Tf 12.4 TL (Nota) Tj T* -30.95459 0 Td ET
+Q
+Q
+q
+1 0 0 1 107 314.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.4 Tm 136.8568 0 Td /F2+0 9 Tf 12.4 TL (Restricci\001n) Tj T* -136.8568 0 Td ET
+Q
+Q
+q
+1 0 0 1 451.2756 314.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.4 Tm 15.43604 0 Td /F2+0 9 Tf 12.4 TL (Origen) Tj T* -15.43604 0 Td ET
+Q
+Q
+q
+1 0 0 1 7 278.6 cm
+q
+BT 1 0 0 1 0 15 Tm 11.8 TL .141176 .211765 .25098 rg /F3+0 8.6 Tf 11.8 TL (C01) Tj  T* (Identificadores) Tj T* ET
+Q
+Q
+q
+1 0 0 1 107 278.6 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 15 Tm /F3+0 8.6 Tf 11.8 TL ({El NIF/CIF de cliente, la matr\005cula y el VIN son \001nicos. El VIN tiene 17) Tj T* (caracteres alfanum\006ricos en may\001sculas, sin I, O ni Q.}) Tj T* ET
+Q
+Q
+q
+1 0 0 1 451.2756 284.5 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (RN01-RN04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 243 cm
+q
+BT 1 0 0 1 0 15 Tm 11.8 TL .141176 .211765 .25098 rg /F3+0 8.6 Tf 11.8 TL (C02) Tj  T* (Autorizaci\003n) Tj T* ET
+Q
+Q
+q
+1 0 0 1 107 243 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 15 Tm /F3+0 8.6 Tf 11.8 TL ({Una orden solo inicia la reparaci\003n con un presupuesto aceptado o una) Tj T* (autorizaci\003n directa expresa, con l\005mite de importe registrado y respetado.}) Tj T* ET
+Q
+Q
+q
+1 0 0 1 451.2756 248.9 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (RN05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 201.5 cm
+q
+BT 1 0 0 1 0 15 Tm 11.8 TL .141176 .211765 .25098 rg /F3+0 8.6 Tf 11.8 TL (C03) Tj  T* (Reservas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 107 195.6 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 26.8 Tm /F3+0 8.6 Tf 11.8 TL ({Disponible = stock f\005sico - suma de unidades con estado Reservado. No se) Tj T* (reserva m\002s de lo disponible. Reservar no reduce el stock f\005sico; consumir) Tj T* (descuenta las unidades una vez y libera la reserva.}) Tj T* ET
+Q
+Q
+q
+1 0 0 1 451.2756 207.4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (RN06) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 154.1 cm
+q
+BT 1 0 0 1 0 15 Tm 11.8 TL .141176 .211765 .25098 rg /F3+0 8.6 Tf 11.8 TL (C04) Tj  T* (Finalizaci\003n) Tj T* ET
+Q
+Q
+q
+1 0 0 1 107 148.2 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 26.8 Tm /F3+0 8.6 Tf 11.8 TL ({Para pasar a Finalizada debe existir al menos una intervenci\003n con horas) Tj T* (de trabajo y estar registrado el control de calidad validado por el) Tj T* (mec\002nico.}) Tj T* ET
+Q
+Q
+q
+1 0 0 1 451.2756 160 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (RN07-RN08) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 112.6 cm
+q
+BT 1 0 0 1 0 15 Tm 11.8 TL .141176 .211765 .25098 rg /F3+0 8.6 Tf 11.8 TL (C05) Tj  T* (Cierre) Tj T* ET
+Q
+Q
+q
+1 0 0 1 107 112.6 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 15 Tm /F3+0 8.6 Tf 11.8 TL ({Para pasar a Cerrada y Facturada deben existir una factura asociada y un) Tj T* (kilometraje de salida registrado.}) Tj T* ET
+Q
+Q
+q
+1 0 0 1 451.2756 118.5 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (RN09-RN10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 65.2 cm
+q
+BT 1 0 0 1 0 15 Tm 11.8 TL .141176 .211765 .25098 rg /F3+0 8.6 Tf 11.8 TL (C06) Tj  T* (Importes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 107 53.4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 38.6 Tm /F3+0 8.6 Tf 11.8 TL ({Se utiliza el 21 % fijado para este ejercicio: cuotaIVA = baseImponible \007) Tj T* (0,21; total = baseImponible + cuotaIVA. En Factura, saldoPendiente = total) Tj T* (- importeCobrado. El estado de pago se obtiene del importe acumulado) Tj T* (recibido.}) Tj T* ET
+Q
+Q
+q
+1 0 0 1 451.2756 65.2 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 15 Tm /F3+0 8.6 Tf 11.8 TL (RN11;) Tj T* (RI05-RI06) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 11.9 cm
+q
+BT 1 0 0 1 0 15 Tm 11.8 TL .141176 .211765 .25098 rg /F3+0 8.6 Tf 11.8 TL (C07) Tj  T* (Caducidad) Tj T* ET
+Q
+Q
+q
+1 0 0 1 107 6 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 26.8 Tm /F3+0 8.6 Tf 11.8 TL ({Si un presupuesto sigue pendiente y han pasado m\002s de 15 d\005as naturales) Tj T* (desde su emisi\003n, pasa a Caducado. Con exactamente 15 d\005as todav\005a no) Tj T* (caduca.}) Tj T* ET
+Q
+Q
+q
+1 0 0 1 451.2756 17.8 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (RN12) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.141176 .211765 .25098 RG
+.6 w
+n 0 308.2 m 523.2756 308.2 l S
+.8 .843137 .866667 RG
+.35 w
+n 0 272.6 m 523.2756 272.6 l S
+n 0 237 m 523.2756 237 l S
+n 0 189.6 m 523.2756 189.6 l S
+n 0 142.2 m 523.2756 142.2 l S
+n 0 106.6 m 523.2756 106.6 l S
+n 0 47.4 m 523.2756 47.4 l S
+n 0 0 m 523.2756 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 36 392.2898 cm
+Q
+q
+1 0 0 1 36 369.7898 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 4.2 Tm /F2+0 11.3 Tf 15.5 TL (Decisiones de esta versi\001n) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36 338.7898 cm
+q
+BT 1 0 0 1 0 15 Tm 12 TL .141176 .211765 .25098 rg /F2+0 9 Tf 12 TL (Sin herencia:) Tj /F3+0 9 Tf 12 TL ( hay varios mec\002nicos posibles, pero un \001nico perfil. El propio mec\002nico registra la validaci\003n de) Tj T* (calidad.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36 308.7898 cm
+q
+BT 1 0 0 1 0 15 Tm 12 TL .141176 .211765 .25098 rg /F2+0 9 Tf 12 TL (Uso de repuesto:) Tj /F3+0 9 Tf 12 TL ( una pareja orden-repuesto se resume en una cantidad, un estado y unos precios. La l\005nea) Tj T* (discontinua la identifica como clase asociaci\003n.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36 278.7898 cm
+q
+BT 1 0 0 1 0 15 Tm 12 TL .141176 .211765 .25098 rg /F2+0 9 Tf 12 TL (Factura:) Tj /F3+0 9 Tf 12 TL ( se propone una por orden como m\002ximo. Solo se guarda el importe cobrado acumulado; saldo y estado) Tj T* (de pago se obtienen a partir del total. No hay historial de pagos individuales.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+1 1 1 RG
+n
+0 0 595.2756 50 re
+f*
+n
+0 260 595.2756 130 re
+f*
+Q
+
+
 endstream
 endobj
-13 0 obj
-<<
-/F1 14 0 R
-/F2+0 15 0 R
-/F3+0 19 0 R
-/F4 23 0 R
-/F5+0 24 0 R
->>
-endobj
-14 0 obj
+12 0 obj
 <<
 /BaseFont /Helvetica
 /Encoding /WinAnsiEncoding
@@ -133,27 +437,36 @@ endobj
 /Type /Font
 >>
 endobj
-15 0 obj
+13 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+14 0 obj
 <<
 /BaseFont /AAAAAA+DejaVuSans-Bold
 /FirstChar 0
-/FontDescriptor 16 0 R
+/FontDescriptor 15 0 R
 /LastChar 127
 /Name /F2+0
 /Subtype /TrueType
-/ToUnicode 18 0 R
+/ToUnicode 17 0 R
 /Type /Font
 /Widths [ 600.0977 687.0117 674.8047 342.7734 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 348.1445 456.0547 520.9961 837.8906 695.8008 1001.953 872.0703 306.1523 457.0312 457.0312 522.9492 837.8906 379.8828 415.0391 379.8828 365.2344 695.8008 695.8008 695.8008 695.8008 695.8008 695.8008 695.8008 695.8008 695.8008 695.8008 399.9023 399.9023 837.8906 837.8906 837.8906 580.0781 1000 773.9258 762.207 733.8867 830.0781 683.1055 683.1055 820.8008 836.9141 372.0703 372.0703 774.9023 637.207 995.1172 836.9141 850.0977 732.9102 850.0977 770.0195 720.2148 682.1289 812.0117 773.9258 1103.027 770.9961 724.1211 725.0977 457.0312 365.2344 457.0312 837.8906 500 500 674.8047 715.8203 592.7734 715.8203 678.2227 435.0586 715.8203 711.9141 342.7734 342.7734 665.0391 342.7734 1041.992 711.9141 687.0117 715.8203 715.8203 493.1641 595.2148 478.0273 711.9141 651.8555 923.8281 645.0195 651.8555 582.0312 711.9141 365.2344 711.9141 837.8906 600.0977 ]
 >>
 endobj
-16 0 obj
+15 0 obj
 <<
 /Ascent 759.7656
 /CapHeight 759.7656
 /Descent -240.2344
 /Flags 262148
 /FontBBox [ -1069.336 -415.0391 1975.098 1175.293 ]
-/FontFile2 17 0 R
+/FontFile2 16 0 R
 /FontName /AAAAAA+DejaVuSans-Bold
 /ItalicAngle 0
 /MissingWidth 600.0977
@@ -161,7 +474,7 @@ endobj
 /Type /FontDescriptor
 >>
 endobj
-17 0 obj
+16 0 obj
 <<
 /Filter [ /FlateDecode ]
 /Length1 35384
@@ -248,7 +561,7 @@ iuÛü}™ü•íOÚ∑6Ú…}¡¬'˘∏ç¸µçúÖã≥9£ëè4Úçú÷»á9•ë⁄»…˜CÖìÂ‰˝Prbcîp¢úºw‹%º◊Féª»üﬂ
 $˝á˝€H¢√%$!˝ Iﬂrí†ë>b‚£Hoï∏¢HØ8`@ø^Q$ŒNbëYàm#1V„Ê’ ≠ê®(·"]$¬(D8Iƒ^˜Ò·fÊ'Ñ-!Nò‘9éÑj$ƒNÇa∂‡6‚Ä{	*'Åv†;\€5b+'VãM∞Î!ﬁb#ñeºûò€à)ïÅ4c01.„3Q‹º¨I#çàÇ"à"∏yæçêr¬¡(NÔe∞ù 3¡{q˘-Àqøˇ¸†ˇ6ˇ∆üHÙÉ]N
 endstream
 endobj
-18 0 obj
+17 0 obj
 <<
 /Filter [ /FlateDecode ]
 /Length 689
@@ -266,27 +579,27 @@ xú}’MkQ∆ÒΩübñ-•ËùÛñÇIL ãæPK˜Ω¶ñ8 ®ã|˚ﬁ«GíK)–Ûf8ã3æ}ò?Ùõc3˛6Ïñã|l÷õ~5‰√Ó4
 ø“Ø˝ø—o˝ø—o˝ø—o˝ø—o˝ø—o˝ø—o˝ø—o˝ø—o;˝ø”Ô;˝ø”Ô;˝ø”Ô;˝ø”Ô;˝ø”Ô;˝ø”Ô;˝ø”Ô;˝ø”Ô˝–˝–˝–˝–˝–˝–˝–˝–ŸóMÄ]Åµ˜∫àñßa(;Íºœã+g”Á◊ıπﬂÌÒ> ??§
 endstream
 endobj
-19 0 obj
+18 0 obj
 <<
 /BaseFont /AAAAAA+DejaVuSans
 /FirstChar 0
-/FontDescriptor 20 0 R
+/FontDescriptor 19 0 R
 /LastChar 127
 /Name /F3+0
 /Subtype /TrueType
-/ToUnicode 22 0 R
+/ToUnicode 21 0 R
 /Type /Font
 /Widths [ 600.0977 633.7891 612.793 611.8164 633.7891 277.832 615.2344 837.8906 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 317.8711 400.8789 459.9609 837.8906 636.2305 950.1953 779.7852 274.9023 390.1367 390.1367 500 837.8906 317.8711 360.8398 317.8711 336.9141 636.2305 636.2305 636.2305 636.2305 636.2305 636.2305 636.2305 636.2305 636.2305 636.2305 336.9141 336.9141 837.8906 837.8906 837.8906 530.7617 1000 684.082 686.0352 698.2422 770.0195 631.8359 575.1953 774.9023 751.9531 294.9219 294.9219 655.7617 557.1289 862.793 748.0469 787.1094 603.0273 787.1094 694.8242 634.7656 610.8398 731.9336 684.082 988.7695 685.0586 610.8398 685.0586 390.1367 336.9141 390.1367 837.8906 500 500 612.793 634.7656 549.8047 634.7656 615.2344 352.0508 634.7656 633.7891 277.832 277.832 579.1016 277.832 974.1211 633.7891 611.8164 634.7656 634.7656 411.1328 520.9961 392.0898 633.7891 591.7969 817.8711 591.7969 591.7969 524.9023 636.2305 336.9141 636.2305 837.8906 600.0977 ]
 >>
 endobj
-20 0 obj
+19 0 obj
 <<
 /Ascent 759.7656
 /CapHeight 759.7656
 /Descent -240.2344
 /Flags 4
 /FontBBox [ -1020.508 -462.8906 1793.457 1232.422 ]
-/FontFile2 21 0 R
+/FontFile2 20 0 R
 /FontName /AAAAAA+DejaVuSans
 /ItalicAngle 0
 /MissingWidth 600.0977
@@ -294,7 +607,7 @@ endobj
 /Type /FontDescriptor
 >>
 endobj
-21 0 obj
+20 0 obj
 <<
 /Filter [ /FlateDecode ]
 /Length1 36228
@@ -380,7 +693,7 @@ l\V˛—põëôùì]Pî®åÃ.»òÄ\æö°Êe‰düòìëØÊMÃœ?!`å ∞πŸπ#Ûañ¨qY@ >>Ø(?{‘ËÇDT çâJ
 )fíl$I}BíçÙ5êƒT“ßw¨–ßåÙNpΩcIÇÉÙäèzeê¯Xk‚¨$÷Hb4≠ë(+â:#D-#óI8ê^F¬Ã$8™ëêÀ$8ì¡MêFÀH p*@#˛0»?à∏4‚‘àüF–¡°;–jœ$∂ƒZF,1õ¸≥FL–€‰OåQlƒ†∫…ëúD,#<<‰A\ZâF8∏Á˙l#H#∏ó-ª˜˘·˝∑¯¡ü∞ˇ¸ÏY
 endstream
 endobj
-22 0 obj
+21 0 obj
 <<
 /Filter [ /FlateDecode ]
 /Length 693
@@ -390,7 +703,7 @@ xúm’Àn⁄PÖ·9O·a´¿gﬂ	!•!ë2ËEM’πáî™d`ê∑ÔY^(9jãˆ∂√'{∞ß∑Àá~{j¶_á˝Í1üöÕ∂_˘∏?
 Ïπ◊¥:CYO„2VŒ∂œØ˚Ú∞?‡*¸˝·åün
 endstream
 endobj
-23 0 obj
+22 0 obj
 <<
 /BaseFont /Times-Roman
 /Encoding /WinAnsiEncoding
@@ -399,27 +712,27 @@ endobj
 /Type /Font
 >>
 endobj
-24 0 obj
+23 0 obj
 <<
 /BaseFont /AAAAAA+NotoSans-Regular
 /FirstChar 0
-/FontDescriptor 25 0 R
+/FontDescriptor 24 0 R
 /LastChar 127
 /Name /F5+0
 /Subtype /TrueType
-/ToUnicode 27 0 R
+/ToUnicode 26 0 R
 /Type /Font
 /Widths [ 0 258 561 605 618 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 260 269 408 646 572 831 732 225 300 300 551 572 268 322 268 372 572 572 572 572 572 572 572 572 572 572 268 268 572 572 572 434 899 639 650 632 730 556 519 728 741 339 273 619 524 907 760 781 605 781 622 549 556 731 600 930 586 566 572 329 372 329 572 444 281 561 615 480 615 564 344 615 618 258 258 534 258 935 618 605 615 615 413 479 361 618 508 786 529 510 470 380 551 380 572 600 ]
 >>
 endobj
-25 0 obj
+24 0 obj
 <<
 /Ascent 1069
 /CapHeight 714
 /Descent -293
 /Flags 4
 /FontBBox [ -621 -389 2800 1067 ]
-/FontFile2 26 0 R
+/FontFile2 25 0 R
 /FontName /AAAAAA+NotoSans-Regular
 /ItalicAngle 0
 /MissingWidth 600
@@ -427,7 +740,7 @@ endobj
 /Type /FontDescriptor
 >>
 endobj
-26 0 obj
+25 0 obj
 <<
 /Filter [ /FlateDecode ]
 /Length1 19740
@@ -504,7 +817,7 @@ f«Æ`™‡∑5¬^ÉÅVjVjN˘≥n^’qƒ^Ü≈I¿n∆;ˆq¿‹Ut‡N±UÍ(£ªÜìÉÍ·„á»◊;S*ÎYÎ|`
 ›ÙKøJÒn_/¬˜G°˚¢Ù~Æ}ΩÑﬁøúÅ§‘≥Ø”ÆØeúß∫ovOjÄ˛ÑLkä€Kä9Â˚¯vR´ôö≤óÒÊÖˇ‡:AÌœs©∂˛˛%·
 endstream
 endobj
-27 0 obj
+26 0 obj
 <<
 /Filter [ /FlateDecode ]
 /Length 690
@@ -515,146 +828,3349 @@ xú}’›jQÜ·Ûπä9l)E˜¨øDHÛ9hZjo`2é©«a‘É‹}˜Á'…¶–
 JE7EK—Zt·OÖ?˛T¯S·OÖ?˛T¯S·OÖ?˛Ü˛Ê‹Ù7¯Œ˙Û»MÉÔø°?è‹ÙÁëõ˛<r”üGn˙Û»MπÈo;6ÙÁëõ˛<r”ﬂ‡ˇ––üGn˙Û®Bø¿/Ù¸Bø¿/Ù¸Bø¿/Ù¸Bø¿/Ù¸Bø¿/Ù¸Bø¿/Ù¸Bø¿/Ù¸Bø¿/Ù¸Jø¬ØÙ+¸Jø¬ØÙ+¸Jø¬ØÙ+¸Jø¬ØÙ+¸Jø¬ØÙ+¸Jø¬ØÙ+¸Jø¬ØÙ+¸Jø¬ØÙ+¸Fø¡oÙ¸Fø¡oÙ¸Fø¡oÙ¸Fø¡oÙ¸Fø¡oÙ¸Fø¡oÙ¸Fø¡oÙ¸Fø¡oÙ¸Nø√ÔÙ;¸Nø√ÔÙ;¸Nø√ÔÙ;¸Nø√ÔÙ;¸Nø√ÔÙ;¸Nø√ÔÙ;¸Nø√ÔÙ;¸Nø√ÔÙ;¸A¿Ù¸A¿Ù¸A¿Ù¸A¿Ù¸A¿Ù¸A¿Ù¸A¿Ù¸A¿Ù_6ƒe`W`ÛΩm¢Ó4MyIù◊„yÒ`Âlá˛mÉé˚ß¸∫¶>
 endstream
 endobj
-28 0 obj
+27 0 obj
 <<
-/Contents 29 0 R
+/Contents 28 0 R
 /MediaBox [ 0 0 595.2756 841.8898 ]
 /Resources <<
-/Font 13 0 R
-/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+/Font <<
+/F1 12 0 R
+/F1-0 29 0 R
+/F2+0 14 0 R
+/F3+0 18 0 R
+/F4 22 0 R
+/F5+0 23 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
 >>
 /Rotate 0
 /Trans <<
 >>
 /Type /Page
+/Annots [ ]
 /Parent 2 0 R
 >>
 endobj
-29 0 obj
+28 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ]
-/Length 2286
+/Length 8996
 >>
 stream
-Gb!#]gN)%<&q/qEFQI)IM)E<.J:Xd!+=hKT.4+OWZl_3<%jQ$=_b1%>/kYKQa7#Ds.D[on80X:U.%@a?l0^Rfe(s!tiPWS5fo#"TS=[FR`!+C=M(>H:IR;*H)<6VG,UOl9Qc?Lp;FB!b$ubWp&/g[g@V-&:bZ>?$^;K'^M\:UZ0C"C+P0n9?\\_Bm=jt78\n^&Tr?oiSd/;Vu-A>JL0bqf0#^l*\8rW"C8RSBre!mZl./r:pdmlG7oETe_)k^L!=d*J>pENu,F^o2jgFCD6dKNXnM\")tp\(KuelTp(1J2\Ui&eqS6>&O,=@0dIMP*PHZ$JiB6]"5*XtAo9Xqp!IN@i.SP-R("0g@aKGC&tDF8G-CIX23>:<^Nb;1aG<AS-kE;4XoAb8g6/7G6/&-XUZ.\C&DPMX8%Ol`BPhAXN+uA1QHF',Mij9_;H&R1)``RGP"RUGnI=gNDiIVPLUM(:bq6f@/\cpjB6"8FNa;m-u=!+G'Yb[T^4nR``Km/R?!_s+qqj[EF`\krdr.[;\S,['U5<Pht>!SR8dbhJ?0rR>R0agQ,n"VQB>a2TtWj/81/I/o*!W1J2B,KRs,n;-HKkU\sNYEOa+TMq2#F%_tIB,"D2LrdC14nm>X+D!lG[GkO`AO)Ah'Gd6;o<s[Og#Q@ASRqr!*ffO/2:-]M9cW?,Z^C:r'"LsI("4A#0Z!'aF0Kl@qq!&"P^*'C4V%I/dQB=C6cH[L[.7k1,08:m),bocuH"A7%CDHL57pB+TDAa1Xm.)#8&eG8&EQPoC?>c:!K$hYN/<u%l*)!\1eXqKXE=`lX0R>5hh'9/6;Cp7<TJo`N&RQa/8T_L%j7Jk%QFhcq!$WgEFt!s:0U57@0mI#<__fd`:4.6@_[9u=^r3\tn;n1bhdjYL^HBXlkllLQKiC*.beLn1Luek-F3]QGbLHbs$.rO`RMK!8)f=2E\]blB#(_3Rk+?f?5FC_"IQS)0n0;teLGB%d'8]V>O-'=oPPne>6b)#@p*VtM^j%>'a*88q%(2@fJF]t.URY]EVTN>"h9u;ljj@Vo$fGNr?_JGIaQLi,'>oiLIT8#UZLkZ10<fq%b'6&0\"&Q9c!tA[/]o@'S]AI#5!T-(5l%gcI'84XTCQ]R=(L=.eo1F0NL8,O]K_r0cc^PYfsWD4L%Rra2ef.S,G>lfaprPu92:AH7KVtof'`3G>o*7TddJr]8!?9#"C'HCNICcn&?%oZSJZQ]OW2(g]r?#PFg"Lk7,R%nC0R&SJildS>Vd#QA`JF@Zs',$6@4Z'l,%n:+O]9QeTIC<9r+[R1+n9K,18iY*t.bC>i\s0k^8jYm1sc`@./<(djd$en[HbW=a]*aVU4JR0'f]BoUuj6CS/Jk(*laQO3^<]l`t^.lNh\-R4=LrF(8%:q72E>QnhqCZTT1:i%^f13q,EqA45O^nf%&&^E&(+Ta#['+oMD_Uk6QjFJo$(HDhaiKWG8408$,YfQ\`GO+a@nbXe`f#kJ3fU-q!.m(!"A4og^ZDZKA$m%t^t$lZdH0_K'?B8EafO1+5fXKRCDK^-"kS+^Gjj(c1!diS-Ep*m+l/PnMSf^-<MA192&/@UmoX)_u[h7U0K/)!79WP_RYkS]ri*9dJE`eQnM??/+ARUkD)(r7r0\q]T(9['1mp-Y'^g&K'6O[e58(TqtCh9I%Rfq?cu"ah2pWNaT`!QQjt$<_-PABDDfFqZa\%G0D(Lc0JK8kg'f]EPHM"IUd49e5O2BO-m/DVa%=,VOIZ$Xp/EmuWL3>$D$:**EY+IYfs3nKdCH6)@/33!s0,hXTK29W.;7VGl=Bdu<P>#EJ$]dT^./Af-3s"2$k?E%MF38:s$^+0GLQ!L]Z91WJ$XHFPMiO&M@`^+'5MA%r/0S$"6!pM[fCR\Y-YalIOq:ma,qV'8"6aBd=ig\1M`OIN]YnT`YQR:OZUY_f8&e>i_>GNPc;q3+3$m%h:(*6JMZa6<_c9;6FK<US:8Y/%Ie.e:LKq<O6._[63kTYMEA_S5msYOft::eWoiJl4dX9)bdElbcC^535F8OADgK0l-+.pU2]&euL,BTo&tGr7jjl*WFiY0G062FAEgt`5%sTQj#F&cO5n7;(mIBBUJ_,M/Q<(0$<FADMkkrUO.mC@)pYQq%A\N"?f6^C'oT,j1],%L+0lciG?h_"8-Zk2tVFCMf6%X-M7_ikInT\dEeMGkc2j'F)DB<0+6'Veqe+j.m!^!eu73pN4([NCN&4+p>ubCQdd3s5Pg"oq<69,]ffmjoHGei\BGQM)=aP=B_Hp$fU)m~>
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.141176 .211765 .25098 rg
+BT 1 0 0 1 36 806.8898 Tm /F2+0 19 Tf 22.8 TL (5.3. Escenarios de prueba) Tj T* ET
+.32549 .403922 .45098 rg
+BT 1 0 0 1 36 788.8898 Tm /F3+0 9.2 Tf 11.04 TL (E1 y E2 | Datos ficticios y vistas parciales de objetos UML.) Tj T* ET
+.8 .843137 .866667 RG
+.7 w
+n 36 776.8898 m 559.2756 776.8898 l S
+.32549 .403922 .45098 rg
+BT 1 0 0 1 36 22 Tm /F3+0 8 Tf 9.6 TL (TREVOR'S MOTOR | L8-G07 | Alcance simplificado) Tj T* ET
+BT 1 0 0 1 554.1857 22 Tm /F3+0 8 Tf 9.6 TL (3) Tj T* ET
+q
+1 0 0 1 36 748.3898 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 4.2 Tm /F2+0 11.3 Tf 15.5 TL (E1. Presupuesto pendiente) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36 729.3898 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3 Tm /F3+0 9 Tf 12 TL (Carmen trae su veh\005culo. OT01 est\002 Presupuestada, P01 sigue Pendiente y no hay autorizaci\003n directa.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36 451.2865 cm
+q
+.523276 0 0 .523276 0 0 cm
+q
+1 0 0 1 0 0 cm
+0 0 0 RG
+1 w
+0 J
+0 j
+[] 0 d
+0 0 0 rg
+BT /F4 10 Tf 12 TL ET
+BT /F4 10 Tf 12 TL ET
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 -1 0 520 cm
+q
+1 1 1 rg
+1 w
+0 J
+0 j
+[] 0 d
+n 0 0 1000 520 re f*
+Q
+q
+.321569 .388235 .427451 RG
+1.8 w
+0 J
+1 j
+[] 0 d
+n 355 90 m 630 90 l
+S
+Q
+q
+.321569 .388235 .427451 RG
+1.8 w
+0 J
+1 j
+[] 0 d
+n 797 156 m 797 300 l
+S
+Q
+q
+.321569 .388235 .427451 RG
+1.8 w
+0 J
+1 j
+[] 0 d
+n 630 365 m 355 365 l
+S
+Q
+q
+1 1 1 rg
+.321569 .388235 .427451 RG
+1.7 w
+0 J
+0 j
+[] 0 d
+n 35 25 320 131 re B*
+Q
+q
+.909804 .937255 .952941 rg
+.321569 .388235 .427451 RG
+1.5 w
+0 J
+0 j
+[] 0 d
+n 35 25 320 40 re B*
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 144.05 -52 Tm /F5+0 20 Tf 24 TL (c1 : Cliente) Tj T* ET
+Q
+Q
+q
+.141176 .211765 .25098 RG
+1.2 w
+0 J
+0 j
+[] 0 d
+n 131.493 55 m 258.507 55 l S
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 48 -86 Tm /F5+0 18 Tf 21.6 TL (nifCif = "12345678Z") Tj T* ET
+Q
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 48 -111 Tm /F5+0 18 Tf 21.6 TL (nombre = "Carmen") Tj T* ET
+Q
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 48 -136 Tm /F5+0 18 Tf 21.6 TL (apellidos = "Ruiz") Tj T* ET
+Q
+Q
+q
+1 1 1 rg
+.321569 .388235 .427451 RG
+1.7 w
+0 J
+0 j
+[] 0 d
+n 630 25 335 131 re B*
+Q
+q
+.909804 .937255 .952941 rg
+.321569 .388235 .427451 RG
+1.5 w
+0 J
+0 j
+[] 0 d
+n 630 25 335 40 re B*
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 738.81 -52 Tm /F5+0 20 Tf 24 TL (v1 : Veh\001culo) Tj T* ET
+Q
+Q
+q
+.141176 .211765 .25098 RG
+1.2 w
+0 J
+0 j
+[] 0 d
+n 725.1938 55 m 869.8062 55 l S
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 643 -86 Tm /F5+0 18 Tf 21.6 TL (matricula = "1234ABC") Tj T* ET
+Q
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 643 -111 Tm /F5+0 18 Tf 21.6 TL (marca = "Seat") Tj T* ET
+Q
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 643 -136 Tm /F5+0 18 Tf 21.6 TL (modelo = "Ibiza") Tj T* ET
+Q
+Q
+q
+1 1 1 rg
+.321569 .388235 .427451 RG
+1.7 w
+0 J
+0 j
+[] 0 d
+n 35 300 320 181 re B*
+Q
+q
+.909804 .937255 .952941 rg
+.321569 .388235 .427451 RG
+1.5 w
+0 J
+0 j
+[] 0 d
+n 35 300 320 40 re B*
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 116.04 -327 Tm /F5+0 20 Tf 24 TL (p1 : Presupuesto) Tj T* ET
+Q
+Q
+q
+.141176 .211765 .25098 RG
+1.2 w
+0 J
+0 j
+[] 0 d
+n 99.14375 330 m 290.8562 330 l S
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 48 -361 Tm /F5+0 18 Tf 21.6 TL (numero = "P01") Tj T* ET
+Q
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 48 -386 Tm /F5+0 18 Tf 21.6 TL (estado = "Pendiente") Tj T* ET
+Q
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 48 -411 Tm /F5+0 18 Tf 21.6 TL (baseImponible = 110) Tj T* ET
+Q
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 48 -436 Tm /F5+0 18 Tf 21.6 TL (cuotaIVA = 23,10) Tj T* ET
+Q
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 48 -461 Tm /F5+0 18 Tf 21.6 TL (total = 133,10) Tj T* ET
+Q
+Q
+q
+1 1 1 rg
+.321569 .388235 .427451 RG
+1.7 w
+0 J
+0 j
+[] 0 d
+n 630 300 335 131 re B*
+Q
+q
+.909804 .937255 .952941 rg
+.321569 .388235 .427451 RG
+1.5 w
+0 J
+0 j
+[] 0 d
+n 630 300 335 40 re B*
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 693.6 -327 Tm /F5+0 20 Tf 24 TL (ot1 : Orden de trabajo) Tj T* ET
+Q
+Q
+q
+.141176 .211765 .25098 RG
+1.2 w
+0 J
+0 j
+[] 0 d
+n 671.8672 330 m 923.1328 330 l S
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 643 -361 Tm /F5+0 18 Tf 21.6 TL (codigo = "OT01") Tj T* ET
+Q
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 643 -386 Tm /F5+0 18 Tf 21.6 TL (estado = "Presupuestada") Tj T* ET
+Q
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 643 -411 Tm /F5+0 18 Tf 21.6 TL (autorizacionDirecta = falso) Tj T* ET
+Q
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 465.1435 -70 Tm /F5+0 19 Tf 22.8 TL (posee) Tj T* ET
+Q
+Q
+q
+.141176 .211765 .25098 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 463.5188 73 m 520.4813 73 l S
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 821.192 -235 Tm /F5+0 19 Tf 22.8 TL (registra) Tj T* ET
+Q
+Q
+q
+.141176 .211765 .25098 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 819.3875 238 m 892.6125 238 l S
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 469.5325 -345 Tm /F5+0 19 Tf 22.8 TL (tiene) Tj T* ET
+Q
+Q
+q
+.141176 .211765 .25098 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 467.9258 348 m 516.0742 348 l S
+Q
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 36 439.2865 cm
+q
+BT 1 0 0 1 0 3 Tm 12 TL .141176 .211765 .25098 rg /F2+0 9 Tf 12 TL (Resultado:) Tj /F3+0 9 Tf 12 TL ( la situaci\003n es v\002lida, pero se rechaza iniciar la reparaci\003n por ) Tj /F2+0 9 Tf 12 TL (C02 / RN05) Tj /F3+0 9 Tf 12 TL (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36 416.7865 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 4.2 Tm /F2+0 11.3 Tf 15.5 TL (E2. Reserva superior al stock) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36 385.7865 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 15 Tm /F3+0 9 Tf 12 TL (Se intentan reservar 3 unidades cuando solo hay 2 y no existen reservas anteriores. Se muestra la propuesta) Tj T* (inv\002lida, no un estado guardado.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 38.87589 170.7865 cm
+q
+.497619 0 0 .497619 0 0 cm
+q
+1 0 0 1 0 0 cm
+0 0 0 RG
+1 w
+0 J
+0 j
+[] 0 d
+0 0 0 rg
+BT /F4 10 Tf 12 TL ET
+BT /F4 10 Tf 12 TL ET
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 -1 0 420 cm
+q
+1 1 1 rg
+1 w
+0 J
+0 j
+[] 0 d
+n 0 0 1040 420 re f*
+Q
+q
+.321569 .388235 .427451 RG
+1.8 w
+0 J
+1 j
+[] 0 d
+n 355 90 m 690 90 l
+S
+Q
+q
+.321569 .388235 .427451 RG
+1.8 w
+0 J
+1 j
+[7 5] 0 d
+n 520 90 m 520 215 l
+S
+Q
+q
+1 1 1 rg
+.321569 .388235 .427451 RG
+1.7 w
+0 J
+0 j
+[] 0 d
+n 30 30 325 106 re B*
+Q
+q
+.909804 .937255 .952941 rg
+.321569 .388235 .427451 RG
+1.5 w
+0 J
+0 j
+[] 0 d
+n 30 30 325 40 re B*
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 88.6 -57 Tm /F5+0 20 Tf 24 TL (ot3 : Orden de trabajo) Tj T* ET
+Q
+Q
+q
+.141176 .211765 .25098 RG
+1.2 w
+0 J
+0 j
+[] 0 d
+n 66.86719 60 m 318.1328 60 l S
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 43 -91 Tm /F5+0 18 Tf 21.6 TL (codigo = "OT03") Tj T* ET
+Q
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 43 -116 Tm /F5+0 18 Tf 21.6 TL (estado = "Abierta") Tj T* ET
+Q
+Q
+q
+1 1 1 rg
+.321569 .388235 .427451 RG
+1.7 w
+0 J
+0 j
+[] 0 d
+n 690 30 320 106 re B*
+Q
+q
+.909804 .937255 .952941 rg
+.321569 .388235 .427451 RG
+1.5 w
+0 J
+0 j
+[] 0 d
+n 690 30 320 40 re B*
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 787.99 -57 Tm /F5+0 20 Tf 24 TL (r2 : Repuesto) Tj T* ET
+Q
+Q
+q
+.141176 .211765 .25098 RG
+1.2 w
+0 J
+0 j
+[] 0 d
+n 774.0031 60 m 925.9969 60 l S
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 703 -91 Tm /F5+0 18 Tf 21.6 TL (referencia = "PASTILLA01") Tj T* ET
+Q
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 703 -116 Tm /F5+0 18 Tf 21.6 TL (stockFisico = 2) Tj T* ET
+Q
+Q
+q
+1 1 1 rg
+.321569 .388235 .427451 RG
+1.7 w
+0 J
+0 j
+[] 0 d
+n 365 215 310 106 re B*
+Q
+q
+.909804 .937255 .952941 rg
+.321569 .388235 .427451 RG
+1.5 w
+0 J
+0 j
+[] 0 d
+n 365 215 310 40 re B*
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 422.89 -242 Tm /F5+0 20 Tf 24 TL (u2 : Uso de repuesto) Tj T* ET
+Q
+Q
+q
+.141176 .211765 .25098 RG
+1.2 w
+0 J
+0 j
+[] 0 d
+n 402.7375 245 m 637.2625 245 l S
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 378 -276 Tm /F5+0 18 Tf 21.6 TL (unidades = 3) Tj T* ET
+Q
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 378 -301 Tm /F5+0 18 Tf 21.6 TL (estado = "Reservado") Tj T* ET
+Q
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 493.552 -68 Tm /F5+0 19 Tf 22.8 TL (utiliza) Tj T* ET
+Q
+Q
+q
+.141176 .211765 .25098 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 491.5281 71 m 548.4719 71 l S
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 274.21 -385 Tm /F5+0 18 Tf 21.6 TL (Propuesta inv\002lida: se rechaza. No se guarda esta reserva.) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 36 158.7865 cm
+q
+BT 1 0 0 1 0 3 Tm 12 TL .141176 .211765 .25098 rg /F2+0 9 Tf 12 TL (Resultado:) Tj /F3+0 9 Tf 12 TL ( se rechaza por ) Tj /F2+0 9 Tf 12 TL (C03 / RN06) Tj /F3+0 9 Tf 12 TL (. No se guarda el uso y el stock f\005sico permanece en 2.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+1 1 1 RG
+n
+0 0 595.2756 50 re
+f*
+Q
+
+
 endstream
+endobj
+29 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 30 0 obj
 <<
 /Contents 31 0 R
 /MediaBox [ 0 0 841.8898 595.2756 ]
 /Resources <<
-/Font 13 0 R
-/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+/Font <<
+/F1 12 0 R
+/F1-0 32 0 R
+/F2+0 14 0 R
+/F3+0 18 0 R
+/F4 22 0 R
+/F5+0 23 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
 >>
 /Rotate 0
 /Trans <<
 >>
 /Type /Page
+/Annots [ ]
 /Parent 2 0 R
 >>
 endobj
 31 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ]
-/Length 2616
+/Length 9699
 >>
 stream
-Gau0F>Bei3&UsJXR'SG?G:b?G!X.JR4Cm8YlQ3Z5D)Et`+(u"%kj[T.Uhm]A5JAoRAPnT23#3OT-:ia[c!W/kiD9Np+6!63-,;04q"^H\+^mD:TpUGr3P:n(0qj7S0ec0(NCV61!mU*E4s=)R;%,MJ9H"qhZp[7O-bO8PPa!^B;Qhp8(qdiF.sIUDBpSdSF&Bb9c'GCWSY^gjkoEHIoU(cjaoYL(Z;T\e#?&YRA;$&1"ni,[T)VliFgZ&N!bMqJ[)cnElkm%`23"A(71+/nEtp[UbPSkRiiMt\RAh@S<op?s&aT"Q!)$9:,(moQru&?ConXL\rM]8q7I;"XODrI-"M&uo<l"B,"iFQ*+seLrA[*%aHM.!Ljjg!+iSnm(Gm45#o47DB2`Q%\A8.;h=J-d*50l#q]u,,NI_n*$f%PQeeTpYnU[E`/:gTHh`#DLX$k?-)4^L.sK3V0^KOsR$#O,u+2u+Q3,bbWXH/l2A$6R_#rfs"+>;c)*_>,Qf5iZbR`Ni(O'nD(/oWCBTEOMWWGbFApntI`WcFia0?hetRXo8u`2I_P71TO>D,.:cc[D1T?r$AW05tB]@clN=Y",FYOn(lC+s,5K@mCf_Z5JL,>pgth(G4o1s6!.K]clnDkYL*m/hLf#9!^_V:B_Cs=]sMI/6H<br;3K!+Ff2$4>'Tbgao`g7-);05VF-Y$3=Uk@lXs,$aGH#>,^s87Tg`2m6YmV\7YMr+Qq##o+$H+-6l22]<uON!.WN->.JXt[#4rfXk(-e%8'`EhVPSRM)NqRfJHJ=k9Xdu6W?86S&B*ok.AT@2EN\@Wg!h[W9j)RfN4[;'7\UB[e^CI9KBQ_T`B+nW#N4JOKnN2Tk%^83';CW/BI&;hT/6oVWEr1VJP3a"@%:mtb>+Sk_=Ni2I?IDld>8S`;@/Jn9F5V$N-9jVKSh"A,[r"E=8Qi8cgog/?Gd9fC4GFRGgA\k4RRoG(pdirp(Xu=gt+7f^K^0sj)Pb)$bt@mlKYS?G4HP8]*>_JfBd8F&2nY1@MF*U0AW+`)8@`4SW/LjBE<QP4:Sp]LN'2!C)uAc;1'js4Z[%^qSDhGgh2Be+6;rVmRcF"i_]qlN.@-<$*k9V#,G.)4M#JL-:P5_ZOoN$@MDJBN'\p*>\PIGN"Cl0kc(iNJrA$.J4CW;79*XMTW/Qh1<4gQ#?`(D0&GseMjiH?AfSGC9Uc0u<V.5::53sn/R@u$<GbVtK(6emQNXX!.>.;-_g$"rknrP1oi(5GCi'!4VVhA:ekN`KQp3'0`;9^DVG06Ms+\#hX%(iX!j:mV1ohEcf>>[YY_QbY&NTn-c6.,EJ%9ZBNA=8CBp_1-0YS(mfpquAc&G361R2F:iQ&Zc-n/UZHpWOEip]W?%CfKI.P[>6pNecmH[4*An%)(,m]=()X8Jif+>:[3R?\h4ZYWVpe$BR'aP*ELO`:W]Cl,A"M&MA63hY@'h:QH=C(0(Ac!g9qOr%geX5CO(Q93l`&:8N@irM;u@ci(Wp5\l]PN?L5C*''JW;.\6U3T-CArH_fCr1Fm.)6:&YU^'"s'!oO:H.]jL!)JC(5jnu,ppVskL3NX,:6rsr98c`:2,SG",ZBEU)M2%VCokD64^)g<`7Q"@TDQsHF+e6^]u@RHRtc[qNU^J2tr#UYM?V-+2GZW%36;\JF9%Q(l1XU1+:CJlQYo]ZA^E[.+u75e7A?/(H1?.=/3;JPn9*K[WOfc6Y:-sLAUd'F3+:u2g5_],cOQtcH`=hQX_E86_685bIe,=(\P(O7ReG<6W@@bl!;$E1U@".02S6oWtWZuC_/\m5l5G\'Q#q1D:1!+gM4@"oPF]agQKp?B$)M.Z(US<&uHtlj4T"GA$'2#L_G=qqP7h1>3(0\?bX3T$u=8,3;T2%P>KRToE4JV%hqE9F>4NZ]1(R,87#lHlG8IR%kLaT6<-ZH>mN$MP\>MfHDhrU;)8Ys8(B96C71-X&T&`3acn"2"d(OGA7p"1THM6.RqSh8UL#rud7q?]OP;8iVDlpqCN,?0`fm(jb/7AD@e6qVSJADTCfl./bEBn[D8.AOoa;6%Q:u*^qg'IN;h34SI,&+DRPK,91X2PHC"pm-dGNM3THei!]8O5U4/U=8E!^KCF\Jphl)ainTPZ!][`qV:8;h:ae;Lc=hfM(<=R0M'7;/Ul)d*bV^JAGl_*jOBI_O)ojg8W7^0U&#[L)<iA"[[&Dh4Z`qcGF<fG](D\SgeuH-RM0^[dd,/Fj.PJ3<o>+5mT=,<qlUKdsZN[sL#icW<=->>LM@<RTBAGNM?JTGq^G'=A-@HqgeH3j\RghB1AL-,cZqIHClUG7LZ5bU<R7?[s5.^=:a(47Z(Ei'(l@m;VeQ]AJF7:dr%glnt'2-a<8WS'%Kdgga3,!c:N>DbWQ6[m,23I(sS^Z/#,K5PJNSm/L<:dd;\"q\8K%QgNGA2mMDD>:/ThQ//W-K$OsAWoGj@936#9.VOZ6r/0ii2?LDNpP"5uXsU&/AoRDRoH3fR^NF>d3ej[.bDV7P\]^GXGm^0bqO44WL)a_mGb+=(TA<!G&Xl&,1"(Nd!91"&c-U*c.%5S'i,&KYrIV>P%o6#O%hrF6KtC"402Jf%X1q[Z*;pu6-T(;~>
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.141176 .211765 .25098 rg
+BT 1 0 0 1 36 560.2756 Tm /F2+0 19 Tf 22.8 TL (5.3. E3. Reparaci\001n facturada) Tj T* ET
+.32549 .403922 .45098 rg
+BT 1 0 0 1 36 542.2756 Tm /F3+0 9.2 Tf 11.04 TL (Control de calidad, cierre de la orden e importe cobrado acumulado.) Tj T* ET
+.8 .843137 .866667 RG
+.7 w
+n 36 530.2756 m 805.8898 530.2756 l S
+.32549 .403922 .45098 rg
+BT 1 0 0 1 36 22 Tm /F3+0 8 Tf 9.6 TL (TREVOR'S MOTOR | L8-G07 | Alcance simplificado) Tj T* ET
+BT 1 0 0 1 800.7999 22 Tm /F3+0 8 Tf 9.6 TL (4) Tj T* ET
+q
+1 0 0 1 36 505.2756 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3 Tm /F3+0 9 Tf 12 TL (OT02 tiene autorizaci\003n directa hasta 200 euros. Luis registra el trabajo, el control de calidad y el kilometraje de salida.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 135.9449 169.2756 cm
+q
+.5 0 0 .5 0 0 cm
+q
+1 0 0 1 0 0 cm
+0 0 0 RG
+1 w
+0 J
+0 j
+[] 0 d
+0 0 0 rg
+BT /F4 10 Tf 12 TL ET
+BT /F4 10 Tf 12 TL ET
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 -1 0 660 cm
+q
+1 1 1 rg
+1 w
+0 J
+0 j
+[] 0 d
+n 0 0 1140 660 re f*
+Q
+q
+.321569 .388235 .427451 RG
+1.8 w
+0 J
+1 j
+[] 0 d
+n 485 80 m 820 80 l
+S
+Q
+q
+.321569 .388235 .427451 RG
+1.8 w
+0 J
+1 j
+[] 0 d
+n 960 126 m 960 190 l
+S
+Q
+q
+.321569 .388235 .427451 RG
+1.8 w
+0 J
+1 j
+[] 0 d
+n 485 170 m 755 170 l 755 260 l 820 260 l
+S
+Q
+q
+.321569 .388235 .427451 RG
+1.8 w
+0 J
+1 j
+[] 0 d
+n 267 226 m 267 360 l 960 360 l 960 420 l
+S
+Q
+q
+.321569 .388235 .427451 RG
+1.8 w
+0 J
+1 j
+[7 5] 0 d
+n 600 360 m 600 420 l
+S
+Q
+q
+.321569 .388235 .427451 RG
+1.8 w
+0 J
+1 j
+[] 0 d
+n 50 170 m 20 170 l 20 490 l 50 490 l
+S
+Q
+q
+1 1 1 rg
+.321569 .388235 .427451 RG
+1.7 w
+0 J
+0 j
+[] 0 d
+n 50 20 435 206 re B*
+Q
+q
+.909804 .937255 .952941 rg
+.321569 .388235 .427451 RG
+1.5 w
+0 J
+0 j
+[] 0 d
+n 50 20 435 40 re B*
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 158.405 -47 Tm /F5+0 21 Tf 25.2 TL (ot2 : Orden de trabajo) Tj T* ET
+Q
+Q
+q
+.141176 .211765 .25098 RG
+1.2 w
+0 J
+0 j
+[] 0 d
+n 135.5891 50 m 399.4109 50 l S
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 63 -81 Tm /F5+0 19 Tf 22.8 TL (codigo = "OT02") Tj T* ET
+Q
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 63 -106 Tm /F5+0 19 Tf 22.8 TL (estado = "Cerrada y Facturada") Tj T* ET
+Q
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 63 -131 Tm /F5+0 19 Tf 22.8 TL (autorizacionDirecta = verdadero) Tj T* ET
+Q
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 63 -156 Tm /F5+0 19 Tf 22.8 TL (limiteAutorizado = 200) Tj T* ET
+Q
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 63 -181 Tm /F5+0 19 Tf 22.8 TL (controlCalidadValidado = verdadero) Tj T* ET
+Q
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 63 -206 Tm /F5+0 19 Tf 22.8 TL (kmSalida = 80005) Tj T* ET
+Q
+Q
+q
+1 1 1 rg
+.321569 .388235 .427451 RG
+1.7 w
+0 J
+0 j
+[] 0 d
+n 820 20 280 106 re B*
+Q
+q
+.909804 .937255 .952941 rg
+.321569 .388235 .427451 RG
+1.5 w
+0 J
+0 j
+[] 0 d
+n 820 20 280 40 re B*
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 888.936 -47 Tm /F5+0 21 Tf 25.2 TL (m1 : Mec\002nico) Tj T* ET
+Q
+Q
+q
+.141176 .211765 .25098 RG
+1.2 w
+0 J
+0 j
+[] 0 d
+n 874.8523 50 m 1045.148 50 l S
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 833 -81 Tm /F5+0 19 Tf 22.8 TL (codigo = "M01") Tj T* ET
+Q
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 833 -106 Tm /F5+0 19 Tf 22.8 TL (nombre = "Luis") Tj T* ET
+Q
+Q
+q
+1 1 1 rg
+.321569 .388235 .427451 RG
+1.7 w
+0 J
+0 j
+[] 0 d
+n 820 190 280 156 re B*
+Q
+q
+.909804 .937255 .952941 rg
+.321569 .388235 .427451 RG
+1.5 w
+0 J
+0 j
+[] 0 d
+n 820 190 280 40 re B*
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 880.578 -217 Tm /F5+0 21 Tf 25.2 TL (i1 : Intervenci\003n) Tj T* ET
+Q
+Q
+q
+.141176 .211765 .25098 RG
+1.2 w
+0 J
+0 j
+[] 0 d
+n 862.9312 220 m 1057.069 220 l S
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 833 -251 Tm /F5+0 19 Tf 22.8 TL (codigo = "I01") Tj T* ET
+Q
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 833 -276 Tm /F5+0 19 Tf 22.8 TL (horas = 2) Tj T* ET
+Q
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 833 -301 Tm /F5+0 19 Tf 22.8 TL (tarifaHora = 40) Tj T* ET
+Q
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 833 -326 Tm /F5+0 19 Tf 22.8 TL (costeHora = 20) Tj T* ET
+Q
+Q
+q
+1 1 1 rg
+.321569 .388235 .427451 RG
+1.7 w
+0 J
+0 j
+[] 0 d
+n 50 390 325 231 re B*
+Q
+q
+.909804 .937255 .952941 rg
+.321569 .388235 .427451 RG
+1.5 w
+0 J
+0 j
+[] 0 d
+n 50 390 325 40 re B*
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 157.7215 -417 Tm /F5+0 21 Tf 25.2 TL (f1 : Factura) Tj T* ET
+Q
+Q
+q
+.141176 .211765 .25098 RG
+1.2 w
+0 J
+0 j
+[] 0 d
+n 144.4906 420 m 280.5094 420 l S
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 63 -451 Tm /F5+0 19 Tf 22.8 TL (numero = "F01") Tj T* ET
+Q
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 63 -476 Tm /F5+0 19 Tf 22.8 TL (baseImponible = 110) Tj T* ET
+Q
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 63 -501 Tm /F5+0 19 Tf 22.8 TL (cuotaIVA = 23,10) Tj T* ET
+Q
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 63 -526 Tm /F5+0 19 Tf 22.8 TL (total = 133,10) Tj T* ET
+Q
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 63 -551 Tm /F5+0 19 Tf 22.8 TL (importeCobrado = 100) Tj T* ET
+Q
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 63 -576 Tm /F5+0 19 Tf 22.8 TL (saldoPendiente = 33,10) Tj T* ET
+Q
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 63 -601 Tm /F5+0 19 Tf 22.8 TL (estadoPago = "Parcial") Tj T* ET
+Q
+Q
+q
+1 1 1 rg
+.321569 .388235 .427451 RG
+1.7 w
+0 J
+0 j
+[] 0 d
+n 440 420 320 156 re B*
+Q
+q
+.909804 .937255 .952941 rg
+.321569 .388235 .427451 RG
+1.5 w
+0 J
+0 j
+[] 0 d
+n 440 420 320 40 re B*
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 498.0345 -447 Tm /F5+0 21 Tf 25.2 TL (u1 : Uso de repuesto) Tj T* ET
+Q
+Q
+q
+.141176 .211765 .25098 RG
+1.2 w
+0 J
+0 j
+[] 0 d
+n 476.8766 450 m 723.1234 450 l S
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 453 -481 Tm /F5+0 19 Tf 22.8 TL (unidades = 1) Tj T* ET
+Q
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 453 -506 Tm /F5+0 19 Tf 22.8 TL (estado = "Consumido") Tj T* ET
+Q
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 453 -531 Tm /F5+0 19 Tf 22.8 TL (precioCosteAplicado = 20) Tj T* ET
+Q
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 453 -556 Tm /F5+0 19 Tf 22.8 TL (precioVentaAplicado = 30) Tj T* ET
+Q
+Q
+q
+1 1 1 rg
+.321569 .388235 .427451 RG
+1.7 w
+0 J
+0 j
+[] 0 d
+n 820 420 280 131 re B*
+Q
+q
+.909804 .937255 .952941 rg
+.321569 .388235 .427451 RG
+1.5 w
+0 J
+0 j
+[] 0 d
+n 820 420 280 40 re B*
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 894.8895 -447 Tm /F5+0 21 Tf 25.2 TL (r1 : Repuesto) Tj T* ET
+Q
+Q
+q
+.141176 .211765 .25098 RG
+1.2 w
+0 J
+0 j
+[] 0 d
+n 880.2039 450 m 1039.796 450 l S
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 833 -481 Tm /F5+0 19 Tf 22.8 TL (referencia = "FILTRO01") Tj T* ET
+Q
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 833 -506 Tm /F5+0 19 Tf 22.8 TL (familia = "Motor") Tj T* ET
+Q
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 833 -531 Tm /F5+0 19 Tf 22.8 TL (stockFisico = 5) Tj T* ET
+Q
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 589.567 -58 Tm /F5+0 18 Tf 21.6 TL (tiene asignado) Tj T* ET
+Q
+Q
+q
+.141176 .211765 .25098 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 585.4742 61 m 718.5258 61 l S
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 997.235 -165 Tm /F5+0 18 Tf 21.6 TL (realiza) Tj T* ET
+Q
+Q
+q
+.141176 .211765 .25098 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 995.2047 168 m 1054.795 168 l S
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 590.246 -150 Tm /F5+0 18 Tf 21.6 TL (incluye) Tj T* ET
+Q
+Q
+q
+.141176 .211765 .25098 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 587.7781 153 m 652.2219 153 l S
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 574.944 -340 Tm /F5+0 18 Tf 21.6 TL (utiliza) Tj T* ET
+Q
+Q
+q
+.141176 .211765 .25098 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 573.0258 343 m 626.9742 343 l S
+Q
+q
+1 0 0 -1 0 0 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 77.985 -303 Tm /F5+0 18 Tf 21.6 TL (genera) Tj T* ET
+Q
+Q
+q
+.141176 .211765 .25098 RG
+1.1 w
+0 J
+0 j
+[] 0 d
+n 76.29297 306 m 139.707 306 l S
+Q
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 36 167.2756 cm
+Q
+q
+1 0 0 1 36 95.47559 cm
+q
+.141176 .211765 .25098 rg
+n 0 71.8 769.8898 -24.4 re f*
+1 1 1 rg
+n 0 47.4 769.8898 -47.4 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 7 53.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.4 Tm 121.565 0 Td /F2+0 9 Tf 12.4 TL (C\002lculos de la reparaci\001n) Tj T* -121.565 0 Td ET
+Q
+Q
+q
+1 0 0 1 391.9449 53.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.4 Tm 128.8709 0 Td /F2+0 9 Tf 12.4 TL (Importes de la factura) Tj T* -128.8709 0 Td ET
+Q
+Q
+q
+1 0 0 1 7 6 cm
+q
+BT 1 0 0 1 0 26.8 Tm 11.8 TL .141176 .211765 .25098 rg /F3+0 8.6 Tf 11.8 TL (Venta sin IVA: 2 h x 40 + 30 = 110 euros.) Tj  T* (Coste: 2 h x 20 + 20 = 60 euros.) Tj  T* (Margen sin IVA: 110 - 60 = 50 euros.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 391.9449 6 cm
+q
+BT 1 0 0 1 0 26.8 Tm 11.8 TL .141176 .211765 .25098 rg /F3+0 8.6 Tf 11.8 TL (IVA del ejercicio: 110 x 0,21 = 23,10 euros.) Tj  T* (Total: 133,10 euros; cobrado acumulado: 100 euros.) Tj  T* (Saldo: 33,10 euros; estado de pago: Parcial.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.141176 .211765 .25098 RG
+.6 w
+n 0 47.4 m 769.8898 47.4 l S
+.8 .843137 .866667 RG
+.35 w
+n 0 0 m 769.8898 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 36 90.47559 cm
+Q
+q
+1 0 0 1 36 78.47559 cm
+q
+BT 1 0 0 1 0 3 Tm 12 TL .141176 .211765 .25098 rg /F2+0 9 Tf 12 TL (Resultado:) Tj /F3+0 9 Tf 12 TL ( cumple C04-C06. RN09 exige factura, no pago completo. La vista omite cliente y veh\005culo, cuyos enlaces existen. El stock mostrado ya refleja el consumo.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 841.8898 595.2756 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+1 1 1 RG
+n
+0 0 841.8898 50 re
+f*
+Q
+
+
 endstream
 endobj
 32 0 obj
 <<
-/Contents 33 0 R
-/MediaBox [ 0 0 841.8898 595.2756 ]
-/Resources <<
-/Font 13 0 R
-/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Parent 2 0 R
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 33 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ]
-/Length 2576
->>
-stream
-Gb!;hh36SM&:_I0@c&SfW0/aS(-ETXb*6V<oGX)\n=htX_]@p8p&tYT5G"/2,q$.If'+N4]-c1YC01;]rhQVSa+3.[Z`i%%i.iboGf>2%0YIY0$&@aapi1UK(hYC^5U,eHn6JkU6?RL+&o9X#/3ug!U-qP>c>fN@)n`;s:f0VY1Xn3P(kHCts3[HrZC'kob]5*I\'&NhZf61$g#?e7IYR*.X#>t@=$Sa)<>=D=LK5HV>%?'^aCYX8:cjAD0D/#V8#YtkeLVLTedK!5%G>b&V61uZQb8'f6.a;]Y[-bhb;tE!M*e6mYOf`H?4b_u'M-AV(+8l0n\53EI_$^0r,oEO<lJ9MbTWg7Ua_bH^K8:-TsMY6rOc#a.n-8)e+DeChqm1:o`<p`S%cLcJ)O*_q2$Hn5M'JD(Kh5j0jg3bD3=)9d]qRF5GaSi8uZ\[_@c]djk(:q\3A,AZ8jgbYE4GMi+<!8;Jk2CM't!Y.YldA3266%otuL#g\VQt.?4e".'BLoP;Gl,?4_$<4FG:j;BDT+7YV>tC"FX-LUS:.jf!=rAkCXjUiom2gTWfuOl/rj@MXm8;%Cqe@M@"-88th3Td8K_cF-$=2PY0,rRoH]*TWDrB@Q\tIh#ZXE4(9O&Z8TNX*n+d(h<AJG>mKh2l"9UF'P!?4B]/ahss!nI,\sJmK7%KPWCZEM+8DUP#SY,Vn]9Eq8-"rp-2Cp7Hp2Mj'q%G\*CGJL3&Ck7Fmj<,B[aO)K('N<6-m2h$1M]fW.72gcB.AS1'H;R+]rQ/(oRQ9tjfoot<G0=6+JJO77Qa6m<<PFDCi`?95pbp210p3EU8p,\(hdi`A1Q?WVQW]I@ip>f=OF9,oEY4U^ZogeQHO(N2h%7(#G"*"7$X&r(24>PGP3_&je<Ln.Xu6pi8W+55q=%!":+Z^9D+8@iA7b+*>APZ6n"]BYNafI16A#;Mp_Sc.[r`#A7I\=[lLG<<S9fb&4U1!4h0R-a3Rp26d2:Of/c*H"BRG<=u6qEp;6L[=\hV-ZqZfI/g`Y8rp_0>J[b*u?9Df[9'A:<s`,Me2/]Lg*O,@;0f2adEI2JuG=F*VC"$C:an/p,0d9+<PJlZZdogH[@"p7sfS.1eE$5&t5XM_B\sjciiOrMh&eY[C7<QR5umI?M>FX'9Ig%TMus+;)N*HcAo<+C2ZI+;mieP/0XP>c)]7(Q)_M\_FJm)pNjcbG^C^sG&F8T,!<^a!=arWGpMf:"P$gHp_p/]">jPd3\5\ce*(#GVQkF*k!bXRfgFY%T_0JmS+k;ha0g5:r!e($)\P1LibM)(qY'VRk`b^/X:[hWO'!W8l.^QEKVn3rJB#t17>.k<n$)H;:Xs,R&sTCb+&tgYQ_Qcd;T.1Ki)K+2OjI(pm?,apm;5C-WkJb"n4,_W4=P:_iG5Cg,/Vr.F]eLQVPuRZX1k?Oi.m9IH\4=]T03\OZ23fXgGALkYk7_tae#BU^+SbLqWtrS^5)o)k49g,:XE`M?J=F\8;b'W8IIobN;l(cNGhEOV(M55gM4_'Tlb3o_q'">(Pg">-]1iB"nC#sm>D[L2LE,Q[$?GBUV5MAgA417d9c8[D,m:YBWlW>e8:oQpA<mCPkZ3b.mB#`@R\ds@aG<;I#!\5'P:srgm[F=-^?_Hb=e3;qQA7fh79N<)PqP;*?1&]<*_CT;Ua:%BU$V`:t95TD<q?3\r1-h$G't^qhOVmQ>MT;>oVN_I!;i3A,%acZ"^LjcLsNbRY[3dCr]R.7B34QI9,,DWqMl:VjsRfCQDq:`o9/8O3?#l"nRr?!2l^`Gfr!4%75l(PW^n9DqF*!Ypt[UPk$m>F\TudJi]<E5%"qTWW\B!4WB:Mpi4aKh[0m_&hp#n/RsOcZHdODe.iA#Y.+]Q?`.j<YhPk]]$2Z4?2u;4q4[#W+k25YQ_%?u5o<%#0]G[FXI4\JP0%!,hcC_4"h+4f$=8,.T82@dl_#WBlVJl('R7T,n3U%TIWRc.#)YiMY5cdU;`UF&//-$]!Kd-Rk_UGR/mK@r(`ri^fLe<i.g6bt\h*j.*a&4uk@p$(7.&D&W5Jt?_NsJWK[r;(?TB/]MS"S6/YV:L+l.tM3[mhK)3N*+-Q0FS;/==^QPr$G.79+\/aQF5'@bV-Kak?JDmOOqjm/?__ohkEjWLXf&Qja87+W#ZRkMSd"O#CU:W%mIG[rN/WH88@@5IO'8DPFcGVVDXY#I>R^5bL)Y*+SOJEcRFVCC"1:euk/)A>gg%i2cQ=&kh,TCUs^>elbGGZrL,SD<J(]eLq;BQHqOW4fH/o5.B"DR7$]Dskn`rblkDAdYP$B?;!5EeVaA?phc-Oueq'1Ej%c&q"=._KN%@:%2r31t5E?2e^9J..u^5&%LkofFj9WU<.:/-h'UW0Q6)W!9M?Cq9&W$0JD_e&sej"nCRU&!km#!-@+W)*8jh/rY34d;/4OG8564)KPGK:'7Se`=fjJ:@9)9a[pl2W]^Bmm2U!Q'pkDdTbmOsWH9Kk,s#&,8Ks&2JqW[4-`Ph`IiC[/?a0Ia^+X27Ln,$\-bgn(`c'J%9agLN+oM".BC\0%!2/4Y#q8WtuX8`00FYB`~>
-endstream
-endobj
-34 0 obj
-<<
-/Contents 35 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
+/Contents 34 0 R
+/MediaBox [ 0 0 841.8898 595.2756 ]
 /Resources <<
-/Font 13 0 R
-/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+/Font <<
+/F1 12 0 R
+/F1-0 35 0 R
+/F2+0 14 0 R
+/F3+0 18 0 R
+/F4 22 0 R
+/F5+0 23 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
 >>
 /Rotate 0
 /Trans <<
 >>
 /Type /Page
+/Annots [ ]
 /Parent 2 0 R
 >>
 endobj
-35 0 obj
+34 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ]
-/Length 2637
+/Length 17359
 >>
 stream
-Gb!T[hfkPJ'Z],&=5:9]?)&T/r9.@N-9^&9Zus$Q4lf&N8k+TP"5KI>m#U%h0ES/g;$fG6flC-J#^!hm>WuC!?W1q5O/d\n-,;0TG^2c0\hLl'l4Y9%DrGee5c@Im(]\R;$c?'.`"A4m#C$C-FQ*H83<=s\Cmcr],PPj+*6YKiQUJ-[_go6"jsC&I5GqYqi!WWm.)ep#/,:e62arlFcX?_Uk0K<(cXhP6`-8lHFn,-R_dO8P%!uYI-I!Y]ERZBH08lo^8jJgmg%nb1TPPC#JCt+[c62*=Q/fAWEDlj5l8?mY?Ut;Fnic8lp_r(?+jAd_O:_COaH_?r1\;tIL;lU3gQo[Pkt&$MO!0Z2Le493cY'/JhTpY^KQlnJmq;,C]T%s.3$H!rc4Z`/33%)2b0oT4iJYDXHi5b_',n,pfLjLPnF)"$0&I11+NKWrZ!fU7E]h.4+aTck?K6bb=%6(:i;,J-./u4&\Zq*OHhSbi)uCJ-,kb_<^'%1Jq>.lL_EA>:p]Gk+comZ^Gdr)=Z_;C,2F'WBB].VLd-7;p5[>''a5PB!GP</)7]4k!7\3n8B[Dcsa6&gfTQ8O>mVX`/"Y<,f/?Ps\eY7@k!X>X"gCh+(n]F6h?rr6q[,Rt7#(MCaM5U'Q38342NIJg\cEJ8_NGMPjBZ4JQisja-EN$=[^%Za%4ia,M\nc-<GG_k;)-[WHl)ji[epSH1Dk.bMB7#HG^t<tGLStSTXlH6!qKO*2i4a;'8,rQ9Dga*6BQB?jKgQ/OS=dJW3Br^18WonoY6A<W5k?hshckjgr_PB9`tWesOj%:]MqTs]-:>7io8!%`p>.lE0NJ[+LrU\Xm?2P?6XtW7*I+eUNol$1E]Sa'+br3=Pc'c[>8><%*/8f6arHog^#O6lOC?6lj"5,X!H"36&SoCCfb8(9&>M6qJXDHQ2Mbe&$fF/[`W@l8K$HnL.:51=T?]*=,`+enJONra.q_XkYsXP+M\U7n]\"B_4Z8Q!KGZ6#+CoGc_^:(r:Z/<&Qb4s#Ot$ORJ2=.@[>6VKjm7g[G0&($YsM4+)*?o`a+j/V3+IZ4&82p?_,GB/&NF+K7@AVb8W"sVQc#g;?W2U1&sWu=T%kb52l#J.9>;6$Q?]=HN?*$rDCgpfX9rNu)a!+'DO<NUH>l,W-7VlAjV;=j19L?Rhsh,T\k)gP79ZgN4T1cV"8jk)Jd&4c5Bb,qp_bSp=rM/R=Q,e\5Bb+V<eYRL+"QCpIb\VrV;[NOH!V_E7,DN;\O]--bETo%QQ30WS7e2tPm.5/T:XFNIV]RjiF@KWNLk-!-KSV?*Xb*Z@E/R,Yse\PaDnkL=,S:)-Uh@.7AcZ,oB+5B?^k,L`FGn2l'Jn@cIa:1PK"(mRPeU:m"mW$Gc0S]*HGVi690]QSp9W^-?(<HGDk]ZnMs6\\6RqEj>VoD99\E`N%J0$daYNh9a_t'e?mH)6B+I[=>eP/OP(>e)E:cr$%]?qf9"B&r0Cs6;Ud#m,%R-@WV!&X++lrdce6c[J=8H@W+h)uLROMg<iFEa)67@6`3I3=Yt\(8i`.l'1,?Rt'3/M+XL%$iq>$puosuW2>ERD>]KoCj^W<6s@u$M=2g2-6H"2OHbo8aoYX_1Q[.K8nMW,2!BpXfV!hAc!3n`"c9$2s)]ip?:">in=a4-?Y5Y?qO$`(.WH$UnX/f$udeqC0Fb#9plrJLW)))<cOQNL6tgt(C9]6_Y4K;r%f^Z='Xm@gNe[st@1+:i=IDu5NCY=TJ]p)DP:[^iB<m56gAFL/!=m5M'T\lfcmp7'S:h<]$'m<0MNHIuPnqV4!/U=W_HqV4!/;V,6MqV4*jNgos<*2h]RW6HFQ?Lc[?f2Z28D5+>5qr,EYX^LbT>DK6+V_[lu^)19.^.pJh'R<t`^ooICjU6IF.S<5kcAqE9;O;*l*^nG(n3/$hfs0SiY[i,O.J7jQoPipa!u95$V:=6(L+9*FG<]>)^"*"!jn/!/LJ+W8e@Q6Nd8?g\W,fKD24g@=S0<`Wcf,^>h\U9='QmJ9]s[TYd1T8cZSZbq*-\KuVg(&YQ)NUVGZ?"<:XUF'<CcM[is3:^1bKfE`::L2jR1W?Ds`"W8#H5+e&eJGobK`J5<!.c_g,WLqU)0s(Yg,%_R*[JG[E'krW59*WA$Bo\19KZGe,pgXY=aKpB.Rcp+c$U'f484i<B-c29lJN3+MSqY_b#\F'hW<phAcG]AKoVcL?!:A+W*QM)1O01T"Fsh`.BZ(akjcm;Tr+fs?MK!co__]3NsIre&%g3?1'J0QBBlmXe#3&9a,hG_31F>CU=<nUJdD?,tJenXV"a1]&e3hE"MuWGk`!g>KNt:577YI)ch4.F4HTft%rqA/g#pcK?P2H@*Qro_A*k;mfYJ;m'2H91\YCRVYkMonZ<A``1""\QEl[ZM".no()\n,Y\?kVI+)Q2M;RD%TdZ[r$K[6L"G[R8!UauYKsAC^$'&Eb2CgDkK9pGk:].s8+:S=oaFRGrLXY53qSuDB*@)N*hl7pcH?pZ<^dKHZqdm4MX6e1:d6_(W8)Gd^3ARNep$/3s1K28F<s@^A,7JoPI%8(0:Q)Z4UMIb<k&6l*s\DP2ZiKQAUt)]qm5Z5h5VPK>B8u&k'Z(sg9Y(o%(j2/?o[ol84ZZg~>
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.141176 .211765 .25098 rg
+BT 1 0 0 1 36 560.2756 Tm /F2+0 19 Tf 22.8 TL (6.1. Trazabilidad de informaci\001n) Tj T* ET
+.32549 .403922 .45098 rg
+BT 1 0 0 1 36 542.2756 Tm /F3+0 9.2 Tf 11.04 TL (Cada X relaciona un RI con las clases y asociaciones que lo representan.) Tj T* ET
+.8 .843137 .866667 RG
+.7 w
+n 36 530.2756 m 805.8898 530.2756 l S
+.32549 .403922 .45098 rg
+BT 1 0 0 1 36 22 Tm /F3+0 8 Tf 9.6 TL (TREVOR'S MOTOR | L8-G07 | Alcance simplificado) Tj T* ET
+BT 1 0 0 1 800.7999 22 Tm /F3+0 8 Tf 9.6 TL (5) Tj T* ET
+q
+1 0 0 1 36 374.4756 cm
+q
+.141176 .211765 .25098 rg
+n 0 142.8 769.8898 -20.4 re f*
+1 1 1 rg
+n 0 122.4 769.8898 -20.4 re f*
+.929412 .94902 .960784 rg
+n 0 102 769.8898 -20.4 re f*
+1 1 1 rg
+n 0 81.6 769.8898 -20.4 re f*
+.929412 .94902 .960784 rg
+n 0 61.2 769.8898 -20.4 re f*
+1 1 1 rg
+n 0 40.8 769.8898 -20.4 re f*
+.929412 .94902 .960784 rg
+n 0 20.4 769.8898 -20.4 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 7 126.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.4 Tm 7.860596 0 Td /F2+0 9 Tf 12.4 TL (RI) Tj T* -7.860596 0 Td ET
+Q
+Q
+q
+1 0 0 1 47 126.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.4 Tm 5.153809 0 Td /F2+0 9 Tf 12.4 TL (Cliente) Tj T* -5.153809 0 Td ET
+Q
+Q
+q
+1 0 0 1 107 126.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.4 Tm 4.214111 0 Td /F2+0 9 Tf 12.4 TL (Veh\003culo) Tj T* -4.214111 0 Td ET
+Q
+Q
+q
+1 0 0 1 173 126.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.4 Tm 4.978516 0 Td /F2+0 9 Tf 12.4 TL (Orden) Tj T* -4.978516 0 Td ET
+Q
+Q
+q
+1 0 0 1 228 126.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.4 Tm 4.260742 0 Td /F2+0 9 Tf 12.4 TL (Mec\002nico) Tj T* -4.260742 0 Td ET
+Q
+Q
+q
+1 0 0 1 298 126.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.4 Tm 6.056885 0 Td /F2+0 9 Tf 12.4 TL (Interv.) Tj T* -6.056885 0 Td ET
+Q
+Q
+q
+1 0 0 1 358 126.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.4 Tm 4.084961 0 Td /F2+0 9 Tf 12.4 TL (Repuesto) Tj T* -4.084961 0 Td ET
+Q
+Q
+q
+1 0 0 1 428 126.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.4 Tm 7.575928 0 Td /F2+0 9 Tf 12.4 TL (Uso) Tj T* -7.575928 0 Td ET
+Q
+Q
+q
+1 0 0 1 476 126.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.4 Tm 3.611328 0 Td /F2+0 9 Tf 12.4 TL (Factura) Tj T* -3.611328 0 Td ET
+Q
+Q
+q
+1 0 0 1 536 126.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.4 Tm 6.61792 0 Td /F2+0 9 Tf 12.4 TL (Presup.) Tj T* -6.61792 0 Td ET
+Q
+Q
+q
+1 0 0 1 602 126.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.4 Tm 47.71002 0 Td /F2+0 9 Tf 12.4 TL (Asociaciones) Tj T* -47.71002 0 Td ET
+Q
+Q
+q
+1 0 0 1 7 106.3 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (RI01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47 106 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 19.88298 0 Td /F3+0 9.1 Tf 12.4 TL (X) Tj T* -19.88298 0 Td ET
+Q
+Q
+q
+1 0 0 1 107 106 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 24.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -24.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 173 106 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 18.85818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -18.85818 0 Td ET
+Q
+Q
+q
+1 0 0 1 228 106 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 26.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -26.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 298 106 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 21.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -21.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 358 106 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 26.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -26.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 428 106 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 15.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -15.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 476 106 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 21.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -21.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 536 106 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 24.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -24.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 602 106.3 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (-) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 85.9 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (RI02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47 85.6 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 19.88298 0 Td /F3+0 9.1 Tf 12.4 TL (X) Tj T* -19.88298 0 Td ET
+Q
+Q
+q
+1 0 0 1 107 85.6 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 22.88298 0 Td /F3+0 9.1 Tf 12.4 TL (X) Tj T* -22.88298 0 Td ET
+Q
+Q
+q
+1 0 0 1 173 85.6 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 18.85818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -18.85818 0 Td ET
+Q
+Q
+q
+1 0 0 1 228 85.6 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 26.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -26.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 298 85.6 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 21.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -21.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 358 85.6 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 26.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -26.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 428 85.6 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 15.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -15.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 476 85.6 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 21.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -21.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 536 85.6 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 24.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -24.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 602 85.9 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (A01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 65.5 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (RI03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47 65.2 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 21.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -21.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 107 65.2 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 22.88298 0 Td /F3+0 9.1 Tf 12.4 TL (X) Tj T* -22.88298 0 Td ET
+Q
+Q
+q
+1 0 0 1 173 65.2 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 17.38298 0 Td /F3+0 9.1 Tf 12.4 TL (X) Tj T* -17.38298 0 Td ET
+Q
+Q
+q
+1 0 0 1 228 65.2 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 24.88298 0 Td /F3+0 9.1 Tf 12.4 TL (X) Tj T* -24.88298 0 Td ET
+Q
+Q
+q
+1 0 0 1 298 65.2 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 19.88298 0 Td /F3+0 9.1 Tf 12.4 TL (X) Tj T* -19.88298 0 Td ET
+Q
+Q
+q
+1 0 0 1 358 65.2 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 24.88298 0 Td /F3+0 9.1 Tf 12.4 TL (X) Tj T* -24.88298 0 Td ET
+Q
+Q
+q
+1 0 0 1 428 65.2 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 13.88298 0 Td /F3+0 9.1 Tf 12.4 TL (X) Tj T* -13.88298 0 Td ET
+Q
+Q
+q
+1 0 0 1 476 65.2 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 21.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -21.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 536 65.2 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 24.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -24.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 602 65.5 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (A02, A03, A04, A05, A06) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 45.1 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (RI04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47 44.8 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 21.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -21.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 107 44.8 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 24.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -24.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 173 44.8 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 17.38298 0 Td /F3+0 9.1 Tf 12.4 TL (X) Tj T* -17.38298 0 Td ET
+Q
+Q
+q
+1 0 0 1 228 44.8 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 26.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -26.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 298 44.8 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 21.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -21.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 358 44.8 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 24.88298 0 Td /F3+0 9.1 Tf 12.4 TL (X) Tj T* -24.88298 0 Td ET
+Q
+Q
+q
+1 0 0 1 428 44.8 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 13.88298 0 Td /F3+0 9.1 Tf 12.4 TL (X) Tj T* -13.88298 0 Td ET
+Q
+Q
+q
+1 0 0 1 476 44.8 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 21.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -21.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 536 44.8 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 24.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -24.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 602 45.1 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (A06) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 24.7 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (RI05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47 24.4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 19.88298 0 Td /F3+0 9.1 Tf 12.4 TL (X) Tj T* -19.88298 0 Td ET
+Q
+Q
+q
+1 0 0 1 107 24.4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 24.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -24.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 173 24.4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 17.38298 0 Td /F3+0 9.1 Tf 12.4 TL (X) Tj T* -17.38298 0 Td ET
+Q
+Q
+q
+1 0 0 1 228 24.4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 26.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -26.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 298 24.4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 21.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -21.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 358 24.4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 26.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -26.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 428 24.4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 15.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -15.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 476 24.4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 19.88298 0 Td /F3+0 9.1 Tf 12.4 TL (X) Tj T* -19.88298 0 Td ET
+Q
+Q
+q
+1 0 0 1 536 24.4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 24.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -24.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 602 24.7 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (A08, A09) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 4.3 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (RI06) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47 4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 21.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -21.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 107 4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 24.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -24.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 173 4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 17.38298 0 Td /F3+0 9.1 Tf 12.4 TL (X) Tj T* -17.38298 0 Td ET
+Q
+Q
+q
+1 0 0 1 228 4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 26.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -26.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 298 4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 21.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -21.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 358 4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 26.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -26.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 428 4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 15.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -15.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 476 4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 21.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -21.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 536 4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 22.88298 0 Td /F3+0 9.1 Tf 12.4 TL (X) Tj T* -22.88298 0 Td ET
+Q
+Q
+q
+1 0 0 1 602 4.3 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (A07) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.141176 .211765 .25098 RG
+.6 w
+n 0 122.4 m 769.8898 122.4 l S
+.8 .843137 .866667 RG
+.35 w
+n 0 102 m 769.8898 102 l S
+n 0 81.6 m 769.8898 81.6 l S
+n 0 61.2 m 769.8898 61.2 l S
+n 0 40.8 m 769.8898 40.8 l S
+n 0 20.4 m 769.8898 20.4 l S
+n 0 0 m 769.8898 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 36 362.4756 cm
+Q
+q
+1 0 0 1 36 339.9756 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 4.2 Tm /F2+0 11.3 Tf 15.5 TL (Asociaciones del diagrama) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36 128.9756 cm
+q
+.141176 .211765 .25098 rg
+n 0 204 769.8898 -20.4 re f*
+1 1 1 rg
+n 0 183.6 769.8898 -20.4 re f*
+.929412 .94902 .960784 rg
+n 0 163.2 769.8898 -20.4 re f*
+1 1 1 rg
+n 0 142.8 769.8898 -20.4 re f*
+.929412 .94902 .960784 rg
+n 0 122.4 769.8898 -20.4 re f*
+1 1 1 rg
+n 0 102 769.8898 -20.4 re f*
+.929412 .94902 .960784 rg
+n 0 81.6 769.8898 -20.4 re f*
+1 1 1 rg
+n 0 61.2 769.8898 -20.4 re f*
+.929412 .94902 .960784 rg
+n 0 40.8 769.8898 -20.4 re f*
+1 1 1 rg
+n 0 20.4 769.8898 -20.4 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 7 187.6 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.4 Tm 6.529541 0 Td /F2+0 9 Tf 12.4 TL (C\001digo) Tj T* -6.529541 0 Td ET
+Q
+Q
+q
+1 0 0 1 69 187.6 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.4 Tm 231.5294 0 Td /F2+0 9 Tf 12.4 TL (Clases y asociaci\001n) Tj T* -231.5294 0 Td ET
+Q
+Q
+q
+1 0 0 1 643.8898 187.6 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.4 Tm 20.85669 0 Td /F2+0 9 Tf 12.4 TL (Multiplicidades) Tj T* -20.85669 0 Td ET
+Q
+Q
+q
+1 0 0 1 7 167.2 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 15.09773 0 Td /F3+0 9.1 Tf 12.4 TL (A01) Tj T* -15.09773 0 Td ET
+Q
+Q
+q
+1 0 0 1 69 167.5 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (Cliente posee Veh\005culo) Tj T* ET
+Q
+Q
+q
+1 0 0 1 643.8898 167.2 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 44.11709 0 Td /F3+0 9.1 Tf 12.4 TL (1 / 0..*) Tj T* -44.11709 0 Td ET
+Q
+Q
+q
+1 0 0 1 7 146.8 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 15.09773 0 Td /F3+0 9.1 Tf 12.4 TL (A02) Tj T* -15.09773 0 Td ET
+Q
+Q
+q
+1 0 0 1 69 147.1 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (Veh\005culo registra Orden de trabajo) Tj T* ET
+Q
+Q
+q
+1 0 0 1 643.8898 146.8 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 44.11709 0 Td /F3+0 9.1 Tf 12.4 TL (1 / 0..*) Tj T* -44.11709 0 Td ET
+Q
+Q
+q
+1 0 0 1 7 126.4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 15.09773 0 Td /F3+0 9.1 Tf 12.4 TL (A03) Tj T* -15.09773 0 Td ET
+Q
+Q
+q
+1 0 0 1 69 126.7 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (Orden de trabajo incluye Intervenci\003n) Tj T* ET
+Q
+Q
+q
+1 0 0 1 643.8898 126.4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 44.11709 0 Td /F3+0 9.1 Tf 12.4 TL (1 / 0..*) Tj T* -44.11709 0 Td ET
+Q
+Q
+q
+1 0 0 1 7 106 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 15.09773 0 Td /F3+0 9.1 Tf 12.4 TL (A04) Tj T* -15.09773 0 Td ET
+Q
+Q
+q
+1 0 0 1 69 106.3 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (Mec\002nico realiza Intervenci\003n) Tj T* ET
+Q
+Q
+q
+1 0 0 1 643.8898 106 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 44.11709 0 Td /F3+0 9.1 Tf 12.4 TL (1 / 0..*) Tj T* -44.11709 0 Td ET
+Q
+Q
+q
+1 0 0 1 7 85.6 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 15.09773 0 Td /F3+0 9.1 Tf 12.4 TL (A05) Tj T* -15.09773 0 Td ET
+Q
+Q
+q
+1 0 0 1 69 85.9 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (Orden de trabajo tiene asignado Mec\002nico) Tj T* ET
+Q
+Q
+q
+1 0 0 1 643.8898 85.6 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 38.94946 0 Td /F3+0 9.1 Tf 12.4 TL (0..* / 0..*) Tj T* -38.94946 0 Td ET
+Q
+Q
+q
+1 0 0 1 7 65.2 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 15.09773 0 Td /F3+0 9.1 Tf 12.4 TL (A06) Tj T* -15.09773 0 Td ET
+Q
+Q
+q
+1 0 0 1 69 65.5 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (Orden de trabajo utiliza Repuesto) Tj T* ET
+Q
+Q
+q
+1 0 0 1 643.8898 65.2 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 38.94946 0 Td /F3+0 9.1 Tf 12.4 TL (0..* / 0..*) Tj T* -38.94946 0 Td ET
+Q
+Q
+q
+1 0 0 1 7 44.8 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 15.09773 0 Td /F3+0 9.1 Tf 12.4 TL (A07) Tj T* -15.09773 0 Td ET
+Q
+Q
+q
+1 0 0 1 69 45.1 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (Orden de trabajo tiene Presupuesto) Tj T* ET
+Q
+Q
+q
+1 0 0 1 643.8898 44.8 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 44.11709 0 Td /F3+0 9.1 Tf 12.4 TL (1 / 0..*) Tj T* -44.11709 0 Td ET
+Q
+Q
+q
+1 0 0 1 7 24.4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 15.09773 0 Td /F3+0 9.1 Tf 12.4 TL (A08) Tj T* -15.09773 0 Td ET
+Q
+Q
+q
+1 0 0 1 69 24.7 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (Orden de trabajo genera Factura) Tj T* ET
+Q
+Q
+q
+1 0 0 1 643.8898 24.4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 43.49724 0 Td /F3+0 9.1 Tf 12.4 TL (1 / 0..1) Tj T* -43.49724 0 Td ET
+Q
+Q
+q
+1 0 0 1 7 4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 15.09773 0 Td /F3+0 9.1 Tf 12.4 TL (A09) Tj T* -15.09773 0 Td ET
+Q
+Q
+q
+1 0 0 1 69 4.3 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (Cliente recibe Factura) Tj T* ET
+Q
+Q
+q
+1 0 0 1 643.8898 4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 44.11709 0 Td /F3+0 9.1 Tf 12.4 TL (1 / 0..*) Tj T* -44.11709 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.141176 .211765 .25098 RG
+.6 w
+n 0 183.6 m 769.8898 183.6 l S
+.8 .843137 .866667 RG
+.35 w
+n 0 163.2 m 769.8898 163.2 l S
+n 0 142.8 m 769.8898 142.8 l S
+n 0 122.4 m 769.8898 122.4 l S
+n 0 102 m 769.8898 102 l S
+n 0 81.6 m 769.8898 81.6 l S
+n 0 61.2 m 769.8898 61.2 l S
+n 0 40.8 m 769.8898 40.8 l S
+n 0 20.4 m 769.8898 20.4 l S
+n 0 0 m 769.8898 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 36 122.9756 cm
+Q
+q
+1 0 0 1 36 110.9756 cm
+q
+BT 1 0 0 1 0 3 Tm 12 TL .141176 .211765 .25098 rg /F2+0 9 Tf 12 TL (A06:) Tj /F3+0 9 Tf 12 TL ( Uso de repuesto es la clase asociaci\003n de Orden-Repuesto. Las multiplicidades se leen en el mismo orden en que aparecen las clases en cada fila.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36 80.97559 cm
+q
+BT 1 0 0 1 0 15 Tm 12 TL .141176 .211765 .25098 rg /F2+0 9 Tf 12 TL (Cruces principales:) Tj /F3+0 9 Tf 12 TL ( Cliente-Factura permite sumas y medias; Orden-Intervenci\003n-Mec\002nico permite sumar horas; Orden-Uso-Repuesto permite calcular costes y) Tj T* (agrupar materiales.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 841.8898 595.2756 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+1 1 1 RG
+n
+0 0 841.8898 50 re
+f*
+Q
+
+
 endstream
 endobj
+35 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+36 0 obj
+<<
+/Contents 37 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 12 0 R
+/F1-0 38 0 R
+/F2+0 14 0 R
+/F3+0 18 0 R
+/F4 22 0 R
+/F5+0 23 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+37 0 obj
+<<
+/Length 20102
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.141176 .211765 .25098 rg
+BT 1 0 0 1 36 806.8898 Tm /F2+0 19 Tf 22.8 TL (6.2. Trazabilidad de reglas de negocio) Tj T* ET
+.32549 .403922 .45098 rg
+BT 1 0 0 1 36 788.8898 Tm /F3+0 9.2 Tf 11.04 TL (Solo se incluyen las doce RN del cat\002logo actual.) Tj T* ET
+.8 .843137 .866667 RG
+.7 w
+n 36 776.8898 m 559.2756 776.8898 l S
+.32549 .403922 .45098 rg
+BT 1 0 0 1 36 22 Tm /F3+0 8 Tf 9.6 TL (TREVOR'S MOTOR | L8-G07 | Alcance simplificado) Tj T* ET
+BT 1 0 0 1 554.1857 22 Tm /F3+0 8 Tf 9.6 TL (6) Tj T* ET
+q
+1 0 0 1 36 446.6898 cm
+q
+.141176 .211765 .25098 rg
+n 0 317.2 523.2756 -24.4 re f*
+1 1 1 rg
+n 0 292.8 523.2756 -24.4 re f*
+.929412 .94902 .960784 rg
+n 0 268.4 523.2756 -24.4 re f*
+1 1 1 rg
+n 0 244 523.2756 -24.4 re f*
+.929412 .94902 .960784 rg
+n 0 219.6 523.2756 -24.4 re f*
+1 1 1 rg
+n 0 195.2 523.2756 -24.4 re f*
+.929412 .94902 .960784 rg
+n 0 170.8 523.2756 -24.4 re f*
+1 1 1 rg
+n 0 146.4 523.2756 -24.4 re f*
+.929412 .94902 .960784 rg
+n 0 122 523.2756 -24.4 re f*
+1 1 1 rg
+n 0 97.6 523.2756 -24.4 re f*
+.929412 .94902 .960784 rg
+n 0 73.2 523.2756 -24.4 re f*
+1 1 1 rg
+n 0 48.8 523.2756 -24.4 re f*
+.929412 .94902 .960784 rg
+n 0 24.4 523.2756 -24.4 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 7 298.8 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.4 Tm 107.3204 0 Td /F2+0 9 Tf 12.4 TL (Regla) Tj T* -107.3204 0 Td ET
+Q
+Q
+q
+1 0 0 1 264.2756 298.8 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.4 Tm 2.435303 0 Td /F2+0 9 Tf 12.4 TL (C01) Tj T* -2.435303 0 Td ET
+Q
+Q
+q
+1 0 0 1 302.2756 298.8 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.4 Tm 2.435303 0 Td /F2+0 9 Tf 12.4 TL (C02) Tj T* -2.435303 0 Td ET
+Q
+Q
+q
+1 0 0 1 340.2756 298.8 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.4 Tm 2.435303 0 Td /F2+0 9 Tf 12.4 TL (C03) Tj T* -2.435303 0 Td ET
+Q
+Q
+q
+1 0 0 1 378.2756 298.8 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.4 Tm 2.435303 0 Td /F2+0 9 Tf 12.4 TL (C04) Tj T* -2.435303 0 Td ET
+Q
+Q
+q
+1 0 0 1 416.2756 298.8 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.4 Tm 2.435303 0 Td /F2+0 9 Tf 12.4 TL (C05) Tj T* -2.435303 0 Td ET
+Q
+Q
+q
+1 0 0 1 454.2756 298.8 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.4 Tm 2.435303 0 Td /F2+0 9 Tf 12.4 TL (C06) Tj T* -2.435303 0 Td ET
+Q
+Q
+q
+1 0 0 1 492.2756 298.8 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.4 Tm 2.435303 0 Td /F2+0 9 Tf 12.4 TL (C07) Tj T* -2.435303 0 Td ET
+Q
+Q
+q
+1 0 0 1 7 274.7 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (RN01. NIF/CIF de cliente \001nico) Tj T* ET
+Q
+Q
+q
+1 0 0 1 264.2756 274.4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 8.882983 0 Td /F3+0 9.1 Tf 12.4 TL (X) Tj T* -8.882983 0 Td ET
+Q
+Q
+q
+1 0 0 1 302.2756 274.4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 340.2756 274.4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 378.2756 274.4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 416.2756 274.4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 454.2756 274.4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 492.2756 274.4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 7 250.3 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (RN02. Matr\005cula \001nica) Tj T* ET
+Q
+Q
+q
+1 0 0 1 264.2756 250 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 8.882983 0 Td /F3+0 9.1 Tf 12.4 TL (X) Tj T* -8.882983 0 Td ET
+Q
+Q
+q
+1 0 0 1 302.2756 250 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 340.2756 250 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 378.2756 250 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 416.2756 250 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 454.2756 250 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 492.2756 250 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 7 225.9 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (RN03. VIN \001nico) Tj T* ET
+Q
+Q
+q
+1 0 0 1 264.2756 225.6 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 8.882983 0 Td /F3+0 9.1 Tf 12.4 TL (X) Tj T* -8.882983 0 Td ET
+Q
+Q
+q
+1 0 0 1 302.2756 225.6 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 340.2756 225.6 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 378.2756 225.6 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 416.2756 225.6 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 454.2756 225.6 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 492.2756 225.6 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 7 201.5 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (RN04. Formato del VIN) Tj T* ET
+Q
+Q
+q
+1 0 0 1 264.2756 201.2 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 8.882983 0 Td /F3+0 9.1 Tf 12.4 TL (X) Tj T* -8.882983 0 Td ET
+Q
+Q
+q
+1 0 0 1 302.2756 201.2 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 340.2756 201.2 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 378.2756 201.2 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 416.2756 201.2 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 454.2756 201.2 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 492.2756 201.2 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 7 177.1 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (RN05. Autorizaci\003n previa) Tj T* ET
+Q
+Q
+q
+1 0 0 1 264.2756 176.8 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 302.2756 176.8 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 8.882983 0 Td /F3+0 9.1 Tf 12.4 TL (X) Tj T* -8.882983 0 Td ET
+Q
+Q
+q
+1 0 0 1 340.2756 176.8 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 378.2756 176.8 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 416.2756 176.8 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 454.2756 176.8 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 492.2756 176.8 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 7 152.7 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (RN06. Reservas limitadas al stock disponible) Tj T* ET
+Q
+Q
+q
+1 0 0 1 264.2756 152.4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 302.2756 152.4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 340.2756 152.4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 8.882983 0 Td /F3+0 9.1 Tf 12.4 TL (X) Tj T* -8.882983 0 Td ET
+Q
+Q
+q
+1 0 0 1 378.2756 152.4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 416.2756 152.4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 454.2756 152.4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 492.2756 152.4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 7 128.3 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (RN07. Intervenci\003n necesaria para finalizar) Tj T* ET
+Q
+Q
+q
+1 0 0 1 264.2756 128 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 302.2756 128 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 340.2756 128 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 378.2756 128 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 8.882983 0 Td /F3+0 9.1 Tf 12.4 TL (X) Tj T* -8.882983 0 Td ET
+Q
+Q
+q
+1 0 0 1 416.2756 128 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 454.2756 128 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 492.2756 128 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 7 103.9 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (RN08. Control de calidad validado) Tj T* ET
+Q
+Q
+q
+1 0 0 1 264.2756 103.6 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 302.2756 103.6 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 340.2756 103.6 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 378.2756 103.6 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 8.882983 0 Td /F3+0 9.1 Tf 12.4 TL (X) Tj T* -8.882983 0 Td ET
+Q
+Q
+q
+1 0 0 1 416.2756 103.6 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 454.2756 103.6 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 492.2756 103.6 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 7 79.5 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (RN09. Factura obligatoria para cerrar) Tj T* ET
+Q
+Q
+q
+1 0 0 1 264.2756 79.2 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 302.2756 79.2 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 340.2756 79.2 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 378.2756 79.2 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 416.2756 79.2 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 8.882983 0 Td /F3+0 9.1 Tf 12.4 TL (X) Tj T* -8.882983 0 Td ET
+Q
+Q
+q
+1 0 0 1 454.2756 79.2 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 492.2756 79.2 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 7 55.1 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (RN10. Kilometraje de salida obligatorio) Tj T* ET
+Q
+Q
+q
+1 0 0 1 264.2756 54.8 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 302.2756 54.8 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 340.2756 54.8 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 378.2756 54.8 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 416.2756 54.8 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 8.882983 0 Td /F3+0 9.1 Tf 12.4 TL (X) Tj T* -8.882983 0 Td ET
+Q
+Q
+q
+1 0 0 1 454.2756 54.8 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 492.2756 54.8 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 7 30.7 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (RN11. C\002lculo del IVA del proyecto) Tj T* ET
+Q
+Q
+q
+1 0 0 1 264.2756 30.4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 302.2756 30.4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 340.2756 30.4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 378.2756 30.4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 416.2756 30.4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 454.2756 30.4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 8.882983 0 Td /F3+0 9.1 Tf 12.4 TL (X) Tj T* -8.882983 0 Td ET
+Q
+Q
+q
+1 0 0 1 492.2756 30.4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 7 6.3 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (RN12. Caducidad del presupuesto) Tj T* ET
+Q
+Q
+q
+1 0 0 1 264.2756 6 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 302.2756 6 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 340.2756 6 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 378.2756 6 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 416.2756 6 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 454.2756 6 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 10.35818 0 Td /F3+0 9.1 Tf 12.4 TL (-) Tj T* -10.35818 0 Td ET
+Q
+Q
+q
+1 0 0 1 492.2756 6 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 8.882983 0 Td /F3+0 9.1 Tf 12.4 TL (X) Tj T* -8.882983 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.141176 .211765 .25098 RG
+.6 w
+n 0 292.8 m 523.2756 292.8 l S
+.8 .843137 .866667 RG
+.35 w
+n 0 268.4 m 523.2756 268.4 l S
+n 0 244 m 523.2756 244 l S
+n 0 219.6 m 523.2756 219.6 l S
+n 0 195.2 m 523.2756 195.2 l S
+n 0 170.8 m 523.2756 170.8 l S
+n 0 146.4 m 523.2756 146.4 l S
+n 0 122 m 523.2756 122 l S
+n 0 97.6 m 523.2756 97.6 l S
+n 0 73.2 m 523.2756 73.2 l S
+n 0 48.8 m 523.2756 48.8 l S
+n 0 24.4 m 523.2756 24.4 l S
+n 0 0 m 523.2756 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 36 436.6898 cm
+Q
+q
+1 0 0 1 36 414.1898 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 4.2 Tm /F2+0 11.3 Tf 15.5 TL (Elementos afectados por cada restricci\001n) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36 211.9898 cm
+q
+.141176 .211765 .25098 rg
+n 0 195.2 523.2756 -24.4 re f*
+1 1 1 rg
+n 0 170.8 523.2756 -24.4 re f*
+.929412 .94902 .960784 rg
+n 0 146.4 523.2756 -24.4 re f*
+1 1 1 rg
+n 0 122 523.2756 -24.4 re f*
+.929412 .94902 .960784 rg
+n 0 97.6 523.2756 -24.4 re f*
+1 1 1 rg
+n 0 73.2 523.2756 -24.4 re f*
+.929412 .94902 .960784 rg
+n 0 48.8 523.2756 -24.4 re f*
+1 1 1 rg
+n 0 24.4 523.2756 -24.4 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 7 176.8 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.4 Tm 7.95459 0 Td /F2+0 9 Tf 12.4 TL (Nota) Tj T* -7.95459 0 Td ET
+Q
+Q
+q
+1 0 0 1 61 176.8 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.4 Tm 172.9918 0 Td /F2+0 9 Tf 12.4 TL (Clases y asociaciones) Tj T* -172.9918 0 Td ET
+Q
+Q
+q
+1 0 0 1 7 152.4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 11.0333 0 Td /F3+0 9.1 Tf 12.4 TL (C01) Tj T* -11.0333 0 Td ET
+Q
+Q
+q
+1 0 0 1 61 152.7 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (Cliente y Veh\005culo) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 128 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 11.0333 0 Td /F3+0 9.1 Tf 12.4 TL (C02) Tj T* -11.0333 0 Td ET
+Q
+Q
+q
+1 0 0 1 61 128.3 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (Orden, Presupuesto y A07) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 103.6 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 11.0333 0 Td /F3+0 9.1 Tf 12.4 TL (C03) Tj T* -11.0333 0 Td ET
+Q
+Q
+q
+1 0 0 1 61 103.9 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (Orden, Repuesto, Uso y A06) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 79.2 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 11.0333 0 Td /F3+0 9.1 Tf 12.4 TL (C04) Tj T* -11.0333 0 Td ET
+Q
+Q
+q
+1 0 0 1 61 79.5 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (Orden, Intervenci\003n y A03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 54.8 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 11.0333 0 Td /F3+0 9.1 Tf 12.4 TL (C05) Tj T* -11.0333 0 Td ET
+Q
+Q
+q
+1 0 0 1 61 55.1 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (Orden, Factura y A08) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 30.4 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 11.0333 0 Td /F3+0 9.1 Tf 12.4 TL (C06) Tj T* -11.0333 0 Td ET
+Q
+Q
+q
+1 0 0 1 61 30.7 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (Factura y Presupuesto) Tj T* ET
+Q
+Q
+q
+1 0 0 1 7 6 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.3 Tm 11.0333 0 Td /F3+0 9.1 Tf 12.4 TL (C07) Tj T* -11.0333 0 Td ET
+Q
+Q
+q
+1 0 0 1 61 6.3 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 3.2 Tm /F3+0 8.6 Tf 11.8 TL (Presupuesto) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.141176 .211765 .25098 RG
+.6 w
+n 0 170.8 m 523.2756 170.8 l S
+.8 .843137 .866667 RG
+.35 w
+n 0 146.4 m 523.2756 146.4 l S
+n 0 122 m 523.2756 122 l S
+n 0 97.6 m 523.2756 97.6 l S
+n 0 73.2 m 523.2756 73.2 l S
+n 0 48.8 m 523.2756 48.8 l S
+n 0 24.4 m 523.2756 24.4 l S
+n 0 0 m 523.2756 0 l S
+Q
+Q
+Q
+q
+1 0 0 1 36 202.9898 cm
+Q
+q
+1 0 0 1 36 178.9898 cm
+q
+BT 1 0 0 1 0 15 Tm 12 TL .141176 .211765 .25098 rg /F2+0 9 Tf 12 TL (Material de referencia:) Tj /F3+0 9 Tf 12 TL ( README del grupo, indicaciones de simplificaci\003n y Tema 5 de IISSI: clases asociaci\003n) Tj T* (\(p\002ginas 30-31 del PDF\), restricciones \(32\), objetos \(36\) y trazabilidad \(40\). Los escenarios son ficticios.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 36 148.9898 cm
+q
+.141176 .211765 .25098 rg
+BT 1 0 0 1 0 15 Tm /F3+0 9 Tf 12 TL (El README del paquete contiene los apartados 1-6. Este PDF recoge el modelo, los escenarios y las matrices de los) Tj T* (apartados 5-6.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+1 1 1 RG
+n
+0 0 595.2756 50 re
+f*
+n
+0 140 595.2756 70 re
+f*
+Q
+
+
+endstream
+endobj
+38 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
 xref
-0 36
+0 39
 0000000000 65535 f 
 0000000015 00000 n 
-0000000145 00000 n 
-0000000239 00000 n 
-0000000305 00000 n 
-0000000567 00000 n 
-0000001125 00000 n 
-0000001166 00000 n 
-0000001273 00000 n 
-0000001385 00000 n 
-0000432525 00000 n 
-0000432547 00000 n 
-0000432749 00000 n 
-0000435311 00000 n 
-0000435394 00000 n 
-0000435502 00000 n 
-0000436817 00000 n 
-0000437084 00000 n 
-0000455477 00000 n 
-0000456243 00000 n 
-0000457541 00000 n 
-0000457797 00000 n 
-0000476986 00000 n 
-0000477756 00000 n 
-0000477866 00000 n 
-0000478502 00000 n 
-0000478727 00000 n 
-0000490764 00000 n 
-0000491531 00000 n 
-0000491733 00000 n 
-0000494112 00000 n 
-0000494314 00000 n 
-0000497023 00000 n 
-0000497225 00000 n 
-0000499894 00000 n 
-0000500096 00000 n 
+0000000054 00000 n 
+0000000148 00000 n 
+0000000197 00000 n 
+0000000503 00000 n 
+0000001289 00000 n 
+0000001396 00000 n 
+0000001503 00000 n 
+0000001615 00000 n 
+0000432755 00000 n 
+0000433042 00000 n 
+0000440056 00000 n 
+0000440164 00000 n 
+0000440272 00000 n 
+0000441587 00000 n 
+0000441854 00000 n 
+0000460247 00000 n 
+0000461013 00000 n 
+0000462311 00000 n 
+0000462567 00000 n 
+0000481756 00000 n 
+0000482526 00000 n 
+0000482636 00000 n 
+0000483272 00000 n 
+0000483497 00000 n 
+0000495534 00000 n 
+0000496301 00000 n 
+0000496588 00000 n 
+0000505637 00000 n 
+0000505745 00000 n 
+0000506032 00000 n 
+0000515784 00000 n 
+0000515892 00000 n 
+0000516179 00000 n 
+0000533592 00000 n 
+0000533700 00000 n 
+0000533987 00000 n 
+0000554143 00000 n 
 trailer
 <<
-/Size 36
+/Size 39
 /Root 3 0 R
 /Info 1 0 R
 >>
 startxref
-502826
+554251
 %%EOF
