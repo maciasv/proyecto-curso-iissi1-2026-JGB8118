@@ -220,8 +220,6 @@ Como **Mecánico**, quiero **una copia automática diaria de la base de datos y 
 
 Se representan **nueve clases**: Cliente, Vehículo, Orden de trabajo, Mecánico, Intervención, Repuesto, Uso de repuesto, Presupuesto y Factura. Los RI describen los datos de este modelo y el único perfil de usuario es Mecánico.
 
-![Diagrama de clases UML](imagenes/clases.png)
-
 [Ver el modelo conceptual en PDF](Modelo_y_trazabilidad.pdf)
 
 **Lectura:** `1` significa exactamente uno; `0..1`, ninguno o uno; `0..*`, ninguno o varios. `[0..1]` marca un atributo opcional. No se incluyen métodos ni tipos de programación.
@@ -281,23 +279,17 @@ Los datos son ficticios. Los diagramas son vistas parciales: un enlace omitido n
 
 Carmen trae su vehículo. La orden OT01 está Presupuestada y P01 sigue Pendiente. No hay autorización directa.
 
-![E1. Presupuesto pendiente](imagenes/escenario_1.png)
-
 **Resultado esperado:** la situación es válida, pero se rechaza un intento de iniciar la reparación por **C02 / RN05**.
 
 #### E2. Reserva superior al stock
 
 Se intenta reservar 3 unidades para OT03, pero solo hay 2 unidades físicas y ninguna reserva anterior. El diagrama muestra la propuesta inválida que se rechaza, no un estado admitido por el sistema.
 
-![E2. Reserva superior al stock](imagenes/escenario_2.png)
-
 **Resultado esperado:** se rechaza por **C03 / RN06**. No se guarda el uso de 3 unidades y el stock físico sigue siendo 2.
 
 #### E3. Reparación facturada con importe cobrado parcial
 
 OT02 tiene autorización directa hasta 200 euros. Luis realiza 2 horas de trabajo, con tarifa de 40 euros y coste de 20 euros por hora. Se consume un repuesto con coste de 20 euros y venta de 30 euros. El mecánico registra el control de calidad, el kilometraje de salida y la factura. El importe cobrado acumulado es 100 euros.
-
-![E3. Reparación facturada](imagenes/escenario_3.png)
 
 | Cálculo | Resultado |
 | :--- | ---: |
